@@ -69,6 +69,12 @@
 - [imagesLoaded](http://imagesloaded.desandro.com/)
 - [Echo.js](https://github.com/toddmotto/echo)
 
+##8. 轻量级的代码高亮插件
+
+- [google-code-prettify](https://code.google.com/p/google-code-prettify/)
+- [highlight.js](https://highlightjs.org/)
+- [Rainbow](http://craig.is/making/rainbows)
+
 
 
 
