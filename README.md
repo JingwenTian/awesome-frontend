@@ -75,6 +75,13 @@
 - [highlight.js](https://highlightjs.org/)
 - [Rainbow](http://craig.is/making/rainbows)
 
+##9. UI Icon 组件
+
+- [Font Awesome](http://fontawesome.io/icons/)
+- [Glyphter: The SVG Font Machine](http://glyphter.com/)
+- [Perfect Icons](http://perfecticons.com/)
+- [iconizr](http://iconizr.com/)
+- [CIKONSS](http://www.bootcss.com/p/cikonss/)
 
 
 
