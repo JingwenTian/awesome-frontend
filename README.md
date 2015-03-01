@@ -133,7 +133,7 @@
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 
-###11.10 多点触摸手势库
+###11.10 触控事件
 
 - [Hammer.JS](https://github.com/hammerjs/hammer.js)
 
@@ -157,6 +157,20 @@
 - [animate.css](https://github.com/daneden/animate.css)
 - [Transit](https://github.com/rstacruz/jquery.transit)
 - [Move.js](https://github.com/visionmedia/move.js)
+
+##15. 实用工具
+
+- [jquery-cookie](https://github.com/carhartl/jquery-cookie)
+- [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
+- [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
+
+##16. 本地存储
+
+- [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
+- [localForage](https://github.com/mozilla/localForage)
+- [pouchdb](https://github.com/pouchdb/pouchdb)
+- [basil.js](https://github.com/Wisembly/basil.js)
+
 
 
 
