@@ -47,26 +47,35 @@
 
 ##8. 表单处理
 
-###8.1 < select > 相关
+###8.1 表单验证(Form Validator)
+
+- [Validator](https://github.com/niceue/validator)
+- [Parsley](https://github.com/guillaumepotier/Parsley.js)
+- [jquery.form.js - jQuery Form Plugin](https://github.com/malsup/form)
+- [Validform](https://github.com/haiercdboy/Validform)
+- [validator.js](https://github.com/sofish/validator.js)
+- [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
+
+###8.2 < select > 相关
 
 - [Chosen](https://github.com/harvesthq/chosen)
 - [Select2](https://github.com/select2/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-###8.2 上传组件
+###8.3 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 
-###8.3 日期选择
+###8.4 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 
-###8.4 取色
+###8.5 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
