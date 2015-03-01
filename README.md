@@ -99,6 +99,36 @@
 - [imagesLoaded](http://imagesloaded.desandro.com/)
 - [Echo.js](https://github.com/toddmotto/echo)
 
+###11.4 进度条
+
+- [NProgress.js](http://ricostacruz.com/nprogress/)
+
+###11.5 图片轮播 
+
+- [FlexSlider](https://github.com/woothemes/FlexSlider)
+
+###11.6 侧滑插件(offcancas)
+
+- [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
+
+###11.7 滚动侦测(ScrollSpy)
+
+- [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
+- [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
+
+###11.8 平滑滚动插件(Smooth Scroll)
+
+- [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+
+###11.9 固定元素(Sticky)
+
+- [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
+
+###11.10 多点触摸手势库
+
+- [Hammer.JS](https://github.com/hammerjs/hammer.js)
+
+
 ##12. 轻量级的代码高亮插件
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
