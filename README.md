@@ -88,6 +88,7 @@
 ##10. 日期格式化
 
 - [Moment.js](http://momentjs.com/)
+- [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 
 ##11. 页面交互
 
@@ -170,6 +171,15 @@
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js](https://github.com/Wisembly/basil.js)
+
+##17. 工具库
+
+- [underscore.js](https://github.com/jashkenas/underscore)
+
+##18. 模板引擎
+
+- [mustache.js](https://github.com/janl/mustache.js)
+- [Handlebars.js](http://www.jingwentian.com/t-66)
 
 
 
