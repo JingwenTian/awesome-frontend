@@ -22,6 +22,7 @@
 - [Backbone.js](https://github.com/jashkenas/backbone)
 - [KISSY](https://github.com/kissyteam/kissy)
 - [Zepto.js](https://github.com/madrobby/zepto)
+- [underscore.js](https://github.com/jashkenas/underscore)
 - [Vanilla JS](http://vanilla-js.com/)
 - [Avalon](https://github.com/RubyLouvre/avalon)
 
@@ -34,6 +35,8 @@
 - [three.js](https://github.com/mrdoob/three.js)
 - [AlloyStick](https://github.com/AlloyTeam/AlloyStick)
 - [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
+- [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
+- [Quintus](https://github.com/cykod/Quintus)
 
 ##4. ui组件库
 
@@ -89,6 +92,7 @@
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
+- [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 
 ###10.4 日期选择
 
@@ -125,39 +129,54 @@
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
-###13.3 图片懒加载
+###13.3 图片懒加载/加载监听
 
-- [imagesLoaded](http://imagesloaded.desandro.com/)
+- [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
+- [lazySizes](https://github.com/aFarkas/lazysizes)
+- [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
+- [lazyload.js](https://github.com/vvo/lazyload)
+- [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 
-###13.4 进度条
-
-- [NProgress.js](http://ricostacruz.com/nprogress/)
-
-###13.5 图片轮播 
+###13.4 图片轮播/展示 
 
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
+- [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
+- [prettyPhoto](https://github.com/scaron/prettyphoto)
+
+###13.5 进度条
+
+- [NProgress.js](http://ricostacruz.com/nprogress/)
 
 ###13.6 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
 
-###13.7 滚动侦测(ScrollSpy)
+###13.7 菜单(Menu)
+
+- [SuperFish - 基于jQuery的级联下拉菜单](https://github.com/joeldbirch/superfish)
+
+###13.8 滚动侦测(ScrollSpy)
 
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
+- [jQuery Waypoints](https://github.com/imakewebthings/jquery-waypoints)
 
-###13.8 平滑滚动插件(Smooth Scroll)
+###13.9 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
-###13.9 固定元素(Sticky)
+###13.10 固定元素(Sticky)
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 
-###13.10 触控事件
+###13.11 触控事件
 
 - [Hammer.JS](https://github.com/hammerjs/hammer.js)
+
+###13.12 拖拽组件
+
+- [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 
 
 ##14. 轻量级的代码高亮插件
@@ -180,29 +199,36 @@
 - [Transit](https://github.com/rstacruz/jquery.transit)
 - [Move.js](https://github.com/visionmedia/move.js)
 
-##17. 实用工具
-
-- [jquery-cookie](https://github.com/carhartl/jquery-cookie)
-- [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
-- [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
-
-##18. 本地存储
+##17. 本地存储
 
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js](https://github.com/Wisembly/basil.js)
 
-##19. 工具库
-
-- [underscore.js](https://github.com/jashkenas/underscore)
-
-##20. 模板引擎
+##18. 模板引擎
 
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
 
+##19. 通知组件
 
+- [alertify.js](https://github.com/fabien-d/alertify.js)
+- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
+- [SweetAlert](https://github.com/t4t5/sweetalert)
 
+##20. 文档/表格
+
+- [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
+
+##21. 实用工具
+
+- [jquery-cookie](https://github.com/carhartl/jquery-cookie)
+- [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
+- [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
+- [Async.js - 异步操作](https://github.com/caolan/async)
+- [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
+- [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
+- [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
 
 
