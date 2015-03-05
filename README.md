@@ -15,39 +15,60 @@
 - [mui](https://github.com/dcloudio/mui)
 - [ionic framework](http://ionicframework.com/)
 
-##2. ui组件库
+##2. JavaScript 框架
+
+- [Angular](https://github.com/angular/angular)
+- [jQuery](https://github.com/jquery/jquery)
+- [Backbone.js](https://github.com/jashkenas/backbone)
+- [KISSY](https://github.com/kissyteam/kissy)
+- [Zepto.js](https://github.com/madrobby/zepto)
+- [Vanilla JS](http://vanilla-js.com/)
+- [Avalon](https://github.com/RubyLouvre/avalon)
+
+##3. 前端游戏框架
+
+- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
+- [Egret Engine](http://www.egret-labs.org/)
+- [LimeJS](https://github.com/digitalfruit/limejs)
+- [EaselJS](https://github.com/CreateJS/EaselJS)
+- [three.js](https://github.com/mrdoob/three.js)
+- [AlloyStick](https://github.com/AlloyTeam/AlloyStick)
+- [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
+
+##4. ui组件库
 
 - [GMU](https://github.com/fex-team/GMU)
 - [NEC](http://nec.netease.com/)
+- [NEJ](http://nej.netease.com/)
 
-##3. 基础模版
+##5. 基础模版
 
 - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
 - [Modernizr](https://github.com/Modernizr/Modernizr)
 - [Normalize.css](https://github.com/necolas/normalize.css/)
 
-##4. 排版
+##6. 排版
 
 - [yue.css](https://github.com/lepture/yue.css)
 - [typo.css](https://github.com/sofish/typo.css)
 
-##5. 网格系统
+##7. 网格系统
 
 - [grid](https://github.com/aekaplan/grid)
 
-##6. HTML5 API 应用
+##8. HTML5 API 应用
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
 - [pushState + ajax](https://github.com/defunkt/jquery-pjax)
 - [Notify.js(Web Notifications API)](https://github.com/alexgibson/notify.js)
 
-##7. UA 识别
+##9. UA 识别
 
 - [detector](https://github.com/hotoo/detector)
 
-##8. 表单处理
+##10. 表单处理
 
-###8.1 表单验证(Form Validator)
+###10.1 表单验证(Form Validator)
 
 - [Validator](https://github.com/niceue/validator)
 - [Parsley](https://github.com/guillaumepotier/Parsley.js)
@@ -56,96 +77,96 @@
 - [validator.js](https://github.com/sofish/validator.js)
 - [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
 
-###8.2 < select > 相关
+###10.2 < select > 相关
 
 - [Chosen](https://github.com/harvesthq/chosen)
 - [Select2](https://github.com/select2/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-###8.3 上传组件
+###10.3 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 
-###8.4 日期选择
+###10.4 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 
-###8.5 取色
+###10.5 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
-##9. 图表绘制
+##11. 图表绘制
 
 - [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 
-##10. 日期格式化
+##12. 日期格式化
 
 - [Moment.js](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 
-##11. 页面交互
+##13. 页面交互
 
-###11.1 Slider
+###13.1 Slider
 
 - [slick - the last carousel you'll ever need](https://github.com/kenwheeler/slick/)
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
 - [Swiper - Most modern mobile touch slider](https://github.com/nolimits4web/Swiper)
 - [iscroll - Smooth scrolling for the web](https://github.com/cubiq/iscroll)
 
-###11.2 瀑布流
+###13.2 瀑布流
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
-###11.3 图片懒加载
+###13.3 图片懒加载
 
 - [imagesLoaded](http://imagesloaded.desandro.com/)
 - [Echo.js](https://github.com/toddmotto/echo)
 
-###11.4 进度条
+###13.4 进度条
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 
-###11.5 图片轮播 
+###13.5 图片轮播 
 
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 
-###11.6 侧滑插件(offcancas)
+###13.6 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
 
-###11.7 滚动侦测(ScrollSpy)
+###13.7 滚动侦测(ScrollSpy)
 
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
 
-###11.8 平滑滚动插件(Smooth Scroll)
+###13.8 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
-###11.9 固定元素(Sticky)
+###13.9 固定元素(Sticky)
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 
-###11.10 触控事件
+###13.10 触控事件
 
 - [Hammer.JS](https://github.com/hammerjs/hammer.js)
 
 
-##12. 轻量级的代码高亮插件
+##14. 轻量级的代码高亮插件
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
 - [highlight.js](https://highlightjs.org/)
 - [Rainbow](http://craig.is/making/rainbows)
 
-##13. UI Icon 组件
+##15. UI Icon 组件
 
 - [Font Awesome](http://fontawesome.io/icons/)
 - [Glyphter: The SVG Font Machine](http://glyphter.com/)
@@ -153,30 +174,30 @@
 - [iconizr](http://iconizr.com/)
 - [CIKONSS](http://www.bootcss.com/p/cikonss/)
 
-##14. 动画
+##16. 动画
 
 - [animate.css](https://github.com/daneden/animate.css)
 - [Transit](https://github.com/rstacruz/jquery.transit)
 - [Move.js](https://github.com/visionmedia/move.js)
 
-##15. 实用工具
+##17. 实用工具
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
 - [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
 
-##16. 本地存储
+##18. 本地存储
 
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js](https://github.com/Wisembly/basil.js)
 
-##17. 工具库
+##19. 工具库
 
 - [underscore.js](https://github.com/jashkenas/underscore)
 
-##18. 模板引擎
+##20. 模板引擎
 
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
