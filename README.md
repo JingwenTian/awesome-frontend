@@ -183,11 +183,14 @@
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 
 
-##14. 轻量级的代码高亮插件
+##14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
 - [highlight.js](https://highlightjs.org/)
 - [Rainbow](http://craig.is/making/rainbows)
+- [ACE](https://github.com/ajaxorg/ace)
+- [CodeMirror](https://github.com/codemirror/codemirror)
+- [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 
 ##15. UI Icon 组件
 
