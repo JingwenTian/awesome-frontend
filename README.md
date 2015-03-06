@@ -13,6 +13,10 @@
   - [Duo](http://duojs.org/)
   - [RequireJS](http://requirejs.org/)
   - [Sea.js](http://seajs.org/)
+- css预处理器
+  - [Less - Less is More , Than CSS](http://lesscss.org/) 
+  - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
+  - [Stylus - Expressive, dynamic, robust CSS](http://learnboost.github.io/stylus/)
 
 ##1. 前端框架
 
