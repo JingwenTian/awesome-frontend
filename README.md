@@ -232,6 +232,7 @@
 - [ACE](https://github.com/ajaxorg/ace)
 - [CodeMirror](https://github.com/codemirror/codemirror)
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
+- [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
 
 ##15. UI Icon 组件
 
@@ -260,6 +261,14 @@
 
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
+- [artTemplate](https://github.com/aui/artTemplate)
+- [baiduTemplate](https://github.com/wangxiao/BaiduTemplate)
+- [JSRender](https://github.com/BorisMoore/jsrender)
+- [EJS - JavaScript Templates](https://github.com/tj/ejs)
+- [Juicer - A Light Javascript Templete Engine.](https://github.com/PaulGuo/Juicer)
+- [Tempo](https://github.com/twigkit/tempo)
+- [json2html](https://github.com/moappi/json2html)
+
 
 ##19. 通知组件/弹框组件
 
@@ -307,8 +316,19 @@
 
 - [Buttons - A CSS button library](https://github.com/alexwolfe/Buttons)
 
+##26. 富文本编辑器/Markdown编辑器/Markdown解析器
 
-##26. 实用工具
+- [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
+- [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
+- [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
+- [marked - markdown解析器](https://github.com/chjj/marked)
+
+##27. 内容提取(Readability)
+
+- [Readability](https://code.google.com/p/arc90labs-readability/)
+- [json.human.js - Json Formatting for Human Beings](https://github.com/marianoguerra/json.human.js)
+
+##28. 实用工具
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
