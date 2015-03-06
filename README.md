@@ -14,17 +14,27 @@
 - [Framework7](http://www.idangero.us/framework7)
 - [mui](https://github.com/dcloudio/mui)
 - [ionic framework](http://ionicframework.com/)
+- [Fries](https://github.com/jaunesarmiento/fries)
+- [jQuery Mobile](http://jquerymobile.com/)
 
-##2. JavaScript 框架
+##2. JavaScript 框架汇总
 
-- [Angular](https://github.com/angular/angular)
-- [jQuery](https://github.com/jquery/jquery)
-- [Backbone.js](https://github.com/jashkenas/backbone)
-- [KISSY](https://github.com/kissyteam/kissy)
-- [Zepto.js](https://github.com/madrobby/zepto)
-- [underscore.js](https://github.com/jashkenas/underscore)
-- [Vanilla JS](http://vanilla-js.com/)
-- [Avalon](https://github.com/RubyLouvre/avalon)
+- JavaScript 框架
+  - [Angular](https://github.com/angular/angular)
+  - [jQuery](https://github.com/jquery/jquery)
+  - [Backbone.js](https://github.com/jashkenas/backbone)
+  - [Ractive.js](https://github.com/ractivejs/ractive)
+  - [KISSY](https://github.com/kissyteam/kissy)
+  - [Zepto.js](https://github.com/madrobby/zepto)
+  - [Vanilla JS](http://vanilla-js.com/)
+  - [Avalon](https://github.com/RubyLouvre/avalon)
+- 轻量级JavaScript框架
+  - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
+  - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
+- JavaScript 工具库
+  - [underscore.js](https://github.com/jashkenas/underscore)
+  - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
+  - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
 
 ##3. 前端游戏框架
 
@@ -79,6 +89,7 @@
 - [Validform](https://github.com/haiercdboy/Validform)
 - [validator.js](https://github.com/sofish/validator.js)
 - [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
+- [Fort.js – 表单填写进度提示](http://github.com/Colourity/Fort.js)
 
 ###10.2 < select > 相关
 
@@ -86,7 +97,11 @@
 - [Select2](https://github.com/select2/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-###10.3 上传组件
+###10.3 单选框/复选框相关
+
+- [iCheck - 增强复选框和单选按钮](https://github.com/fronteed/iCheck)
+
+###10.4 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
@@ -94,21 +109,24 @@
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 
-###10.4 日期选择
+###10.5 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 
-###10.5 取色
+###10.6 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
 ##11. 图表绘制
 
+- [Highcharts](https://github.com/highslide-software/highcharts.com)
 - [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
+- [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
+  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
 
 ##12. 日期格式化
 
@@ -144,43 +162,66 @@
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
 - [prettyPhoto](https://github.com/scaron/prettyphoto)
 
-###13.5 进度条
+###13.5 图片剪裁
+
+- [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
+
+###13.6 进度条
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 
-###13.6 侧滑插件(offcancas)
+###13.7 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
 
-###13.7 菜单(Menu)
+###13.8 菜单(Menu)
 
 - [SuperFish - 基于jQuery的级联下拉菜单](https://github.com/joeldbirch/superfish)
+- [Responsive Nav - 响应式导航](https://github.com/viljamis/responsive-nav.js)
 
-###13.8 滚动侦测(ScrollSpy)
+###13.9 滚动侦测(ScrollSpy)
 
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 
-###13.9 滚动加载更多
+###13.10 滚动加载更多
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
 
-###13.10 平滑滚动插件(Smooth Scroll)
+###13.11 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
-###13.11 固定元素(Sticky)
+###13.12 全屏滚动
+
+- [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
+
+###13.13 分屏滚动
+
+- [multiscroll.js - 分屏滚动效果](https://github.com/alvarotrigo/multiscroll.js)
+
+###13.14 转场效果
+
+- [Animsition - 页面切换时的过渡效果](https://github.com/blivesta/animsition)
+
+###13.15 固定元素(Sticky)
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
+- [jquery.pin - 固定页面元素](https://github.com/webpop/jquery.pin)
 
-###13.12 触控事件
+###13.16 触控事件
 
 - [Hammer.JS](https://github.com/hammerjs/hammer.js)
 
-###13.13 拖拽组件
+###13.17 拖拽组件
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
+
+###13.18 隐藏或展示页面元素
+
+- [Headroom.js - 在不需要页头时将其隐藏](http://www.bootcss.com/p/headroom.js/)
+- [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 
 
 ##14. 代码高亮插件/代码编辑器
@@ -198,13 +239,15 @@
 - [Glyphter: The SVG Font Machine](http://glyphter.com/)
 - [Perfect Icons](http://perfecticons.com/)
 - [iconizr](http://iconizr.com/)
-- [CIKONSS](http://www.bootcss.com/p/cikonss/)
+- [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
+- [Simple Icons](https://github.com/danleech/simple-icons)
 
 ##16. 动画
 
 - [animate.css](https://github.com/daneden/animate.css)
 - [Transit](https://github.com/rstacruz/jquery.transit)
 - [Move.js](https://github.com/visionmedia/move.js)
+- [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
 
 ##17. 本地存储
 
@@ -218,30 +261,62 @@
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
 
-##19. 通知组件
+##19. 通知组件/弹框组件
 
 - [alertify.js](https://github.com/fabien-d/alertify.js)
 - [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
 - [SweetAlert](https://github.com/t4t5/sweetalert)
+- [Messenger - 非常酷的弹框组件](https://github.com/HubSpot/messenger)
 
-##20. 文档/表格
+##20. 提示控件(Tooltips)
+
+- [qTip2 - Pretty powerful tooltips](https://github.com/qTip2/qTip2)
+- [tooltip - CSS Tooltips](https://github.com/HubSpot/tooltip)
+- [tooltipster - A jQuery tooltip plugin](https://github.com/iamceege/tooltipster)
+- [grumble.js - 气泡形状的提示（Tooltip）控件](https://github.com/jamescryer/grumble.js)
+- [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
+
+##21. 弹出层(lightbox)
+
+- [fancyBox - Fancy jQuery lightbox](https://github.com/fancyapps/fancyBox)
+- [jquery-lightbox - The popular lightbox script, ported to jQuery](https://github.com/krewenki/jquery-lightbox)
+
+##22. 文档/表格
 
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
+- [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
 
-##21. Ajax模块
+##23. Ajax模块
 
 - [fetch - A window.fetch JavaScript polyfill](https://github.com/github/fetch)
 - [reqwest - browser asynchronous http requests](https://github.com/ded/reqwest)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
-##22. 实用工具
+##24. 音频/视频播放器
+
+- [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
+- [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
+- [Accessible HTML5 Video Player - PayPal 开源的 HTML5 视频播放器](https://github.com/paypal/accessible-html5-video-player)
+- [Clappr - 开源的Web视频播放器](https://github.com/clappr/clappr)
+- [Plyr - A simple HTML5 media player](https://github.com/selz/plyr)
+- [FitVids.js - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.](https://github.com/davatron5000/FitVids.js)
+- [BigVideo.js - The jQuery Plugin for Big Background Video](https://github.com/dfcb/BigVideo.js)
+- [BigScreen - A simple library for using the JavaScript Full Screen API](https://github.com/bdougherty/BigScreen)
+
+##25. 按钮
+
+- [Buttons - A CSS button library](https://github.com/alexwolfe/Buttons)
+
+
+##26. 实用工具
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
 - [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
-- [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
+- [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
+
 
 
