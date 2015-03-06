@@ -228,7 +228,13 @@
 
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 
-##21. 实用工具
+##21. Ajax模块
+
+- [fetch - A window.fetch JavaScript polyfill](https://github.com/github/fetch)
+- [reqwest - browser asynchronous http requests](https://github.com/ded/reqwest)
+- [minAjax.js](https://github.com/argunner/minAjax.js/)
+
+##22. 实用工具
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
