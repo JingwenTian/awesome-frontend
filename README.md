@@ -1,6 +1,19 @@
 #前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
+##0. 前端自动化
+
+- 前端构建工具
+  - [gulp - The streaming build system](http://gulpjs.com/) 
+  - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
+- 前端模块管理器
+  - [Bower - A package manager for the web](http://bower.io/)
+  - [Browserify](http://browserify.org/)
+  - [Component](https://github.com/componentjs/component)
+  - [Duo](http://duojs.org/)
+  - [RequireJS](http://requirejs.org/)
+  - [Sea.js](http://seajs.org/)
+
 ##1. 前端框架
 
 - [Bootstrap](https://github.com/twbs/bootstrap)
@@ -72,7 +85,8 @@
 ##8. HTML5 API 应用
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
-- [pushState + ajax](https://github.com/defunkt/jquery-pjax)
+- [jquery-pjax - pushState+ajax](https://github.com/defunkt/jquery-pjax)
+- [jquery-address - Deep Linking](https://github.com/asual/jquery-address)
 - [Notify.js(Web Notifications API)](https://github.com/alexgibson/notify.js)
 
 ##9. UA 识别
@@ -106,8 +120,10 @@
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
+- [Plupload](https://github.com/moxiecode/plupload)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
+- [flow.js](https://github.com/flowjs/flow.js)
 
 ###10.5 日期选择
 
@@ -118,6 +134,10 @@
 ###10.6 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
+
+###10.7 标签插件(Tag)
+
+- [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 
 ##11. 图表绘制
 
@@ -169,6 +189,9 @@
 ###13.6 进度条
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
+- [progress.js](https://github.com/usablica/progress.js)
+- [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
+- [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
 
 ###13.7 侧滑插件(offcancas)
 
@@ -192,6 +215,7 @@
 ###13.11 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 
 ###13.12 全屏滚动
 
@@ -223,6 +247,14 @@
 - [Headroom.js - 在不需要页头时将其隐藏](http://www.bootcss.com/p/headroom.js/)
 - [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 
+###13.19 滚动条
+
+- [jScrollPane](https://github.com/vitch/jScrollPane)
+
+###13.20 视差滚动(Parallax Scrolling)
+
+- [parallax.js](https://github.com/wagerfield/parallax)
+- [jparallax](https://github.com/stephband/jparallax)
 
 ##14. 代码高亮插件/代码编辑器
 
@@ -276,6 +308,7 @@
 - [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
 - [SweetAlert](https://github.com/t4t5/sweetalert)
 - [Messenger - 非常酷的弹框组件](https://github.com/HubSpot/messenger)
+- [PNotify](https://github.com/sciactive/pnotify)
 
 ##20. 提示控件(Tooltips)
 
@@ -285,23 +318,33 @@
 - [grumble.js - 气泡形状的提示（Tooltip）控件](https://github.com/jamescryer/grumble.js)
 - [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
 
-##21. 弹出层(lightbox)
+##21. 对话框/弹出层(lightbox)
 
 - [fancyBox - Fancy jQuery lightbox](https://github.com/fancyapps/fancyBox)
 - [jquery-lightbox - The popular lightbox script, ported to jQuery](https://github.com/krewenki/jquery-lightbox)
+- [Colorbox - a jQuery lightbox](https://github.com/jackmoore/colorbox)
+- [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
+
 
 ##22. 文档/表格
 
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 - [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
+- [DataTables - Table plug-in for jQuery](https://github.com/DataTables/DataTables)
 
-##23. Ajax模块
+##23. 目录树插件
+
+- [zTree_v3 - jQuery Tree Plugin](https://github.com/zTree/zTree_v3)
+- [jstree - jQuery Tree Plugin](https://github.com/vakata/jstree)
+- [fancytree - Tree plugin for jQuery](https://github.com/mar10/fancytree)
+
+##24. Ajax模块
 
 - [fetch - A window.fetch JavaScript polyfill](https://github.com/github/fetch)
 - [reqwest - browser asynchronous http requests](https://github.com/ded/reqwest)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
-##24. 音频/视频播放器
+##25. 音频/视频
 
 - [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
 - [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
@@ -311,24 +354,26 @@
 - [FitVids.js - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.](https://github.com/davatron5000/FitVids.js)
 - [BigVideo.js - The jQuery Plugin for Big Background Video](https://github.com/dfcb/BigVideo.js)
 - [BigScreen - A simple library for using the JavaScript Full Screen API](https://github.com/bdougherty/BigScreen)
+- [Vide - 视频背景](https://github.com/VodkaBears/Vide)
+- [winamp2-js](https://github.com/captbaritone/winamp2-js)
 
-##25. 按钮
+##26. 按钮
 
 - [Buttons - A CSS button library](https://github.com/alexwolfe/Buttons)
 
-##26. 富文本编辑器/Markdown编辑器/Markdown解析器
+##27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
 - [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
 
-##27. 内容提取(Readability)
+##28. 内容提取(Readability)
 
 - [Readability](https://code.google.com/p/arc90labs-readability/)
 - [json.human.js - Json Formatting for Human Beings](https://github.com/marianoguerra/json.human.js)
 
-##28. 实用工具
+##29. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
@@ -337,6 +382,8 @@
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
+- [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
+- [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 
 
 
