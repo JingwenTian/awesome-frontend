@@ -160,21 +160,25 @@
 
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
-- [jQuery Waypoints](https://github.com/imakewebthings/jquery-waypoints)
+- [Waypoints](https://github.com/imakewebthings/waypoints)
 
-###13.9 平滑滚动插件(Smooth Scroll)
+###13.9 滚动加载更多
+
+- [jScroll](https://github.com/pklauzinski/jscroll)
+
+###13.10 平滑滚动插件(Smooth Scroll)
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
-###13.10 固定元素(Sticky)
+###13.11 固定元素(Sticky)
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 
-###13.11 触控事件
+###13.12 触控事件
 
 - [Hammer.JS](https://github.com/hammerjs/hammer.js)
 
-###13.12 拖拽组件
+###13.13 拖拽组件
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 
