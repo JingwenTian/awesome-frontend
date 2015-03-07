@@ -85,6 +85,7 @@
 ##7. 网格系统
 
 - [grid](https://github.com/aekaplan/grid)
+- [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
 
 ##8. HTML5 API 应用
 
@@ -281,10 +282,17 @@
 
 ##16. 动画
 
-- [animate.css](https://github.com/daneden/animate.css)
-- [Transit](https://github.com/rstacruz/jquery.transit)
-- [Move.js](https://github.com/visionmedia/move.js)
+- [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
+- [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
+- [Move.js - 简化CSS3动画的JS库](https://github.com/visionmedia/move.js)
 - [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
+- [Effeckt.css - A Performant Transitions and Animations Library](https://github.com/h5bp/Effeckt.css)
+- [NEC动画库](http://nec.netease.com/library/category/#animation)
+- [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
+- [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
+- [Hover.css](https://github.com/IanLunn/Hover)
+- [css-loaders](https://github.com/lukehaas/css-loaders)
+- [SpinKit](https://github.com/tobiasahlin/SpinKit)
 
 ##17. 本地存储
 
