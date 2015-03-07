@@ -70,6 +70,8 @@
 - [GMU](https://github.com/fex-team/GMU)
 - [NEC](http://nec.netease.com/)
 - [NEJ](http://nej.netease.com/)
+- [Pure CSS Components](https://github.com/LFeh/css-components/)
+- [magic-of-css](https://github.com/adamschwartz/magic-of-css)
 
 ##5. 基础模版
 
@@ -385,7 +387,12 @@
 - [Readability](https://code.google.com/p/arc90labs-readability/)
 - [json.human.js - Json Formatting for Human Beings](https://github.com/marianoguerra/json.human.js)
 
-##29. 实用工具/其他插件
+##29. 颜色(CSS Colors)/SVG
+
+- [CSS Colours](http://colours.neilorangepeel.com/)
+- [SVGeneration](http://www.svgeneration.com/)
+
+##30. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
