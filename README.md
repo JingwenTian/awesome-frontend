@@ -338,7 +338,7 @@
 - [jquery-lightbox - The popular lightbox script, ported to jQuery](https://github.com/krewenki/jquery-lightbox)
 - [Colorbox - a jQuery lightbox](https://github.com/jackmoore/colorbox)
 - [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
-
+- [DialogEffects](https://github.com/codrops/DialogEffects)
 
 ##22. 文档/表格
 
@@ -374,6 +374,10 @@
 ##26. 按钮
 
 - [Buttons - A CSS button library](https://github.com/alexwolfe/Buttons)
+- [ButtonComponentMorph](https://github.com/codrops/ButtonComponentMorph)
+- [ProgressButtonStyles](https://github.com/codrops/ProgressButtonStyles)
+- [CreativeButtons](https://github.com/codrops/CreativeButtons)
+- [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
 
 ##27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
