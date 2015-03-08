@@ -408,5 +408,11 @@
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 
+---
 
+##前端参考集
+
+- [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
+- [Codrops - Useful resources](https://github.com/codrops)
+- [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
 
