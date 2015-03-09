@@ -78,6 +78,7 @@
 - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
 - [Modernizr](https://github.com/Modernizr/Modernizr)
 - [Normalize.css](https://github.com/necolas/normalize.css/)
+- [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
 
 ##6. 排版
 
