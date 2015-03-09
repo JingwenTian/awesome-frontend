@@ -1,7 +1,7 @@
 #前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
-##0. 前端自动化
+##0. 前端自动化(Workflow)
 
 - 前端构建工具
   - [gulp - The streaming build system](http://gulpjs.com/) 
@@ -18,7 +18,7 @@
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
   - [Stylus - Expressive, dynamic, robust CSS](http://learnboost.github.io/stylus/)
 
-##1. 前端框架
+##1. 前端框架(Frameworks)
 
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Foundation](https://github.com/zurb/foundation)
@@ -417,4 +417,5 @@
 - [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 - [Codrops - Useful resources](https://github.com/codrops)
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
