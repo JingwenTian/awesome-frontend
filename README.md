@@ -83,6 +83,7 @@
 
 - [yue.css](https://github.com/lepture/yue.css)
 - [typo.css](https://github.com/sofish/typo.css)
+- [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines) 
 
 ##7. 网格系统
 
