@@ -4,6 +4,7 @@
 ##0. 前端自动化(Workflow)
 
 - 前端构建工具
+  - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman) 
   - [gulp - The streaming build system](http://gulpjs.com/) 
   - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
 - 前端模块管理器
@@ -37,6 +38,7 @@
 ##2. JavaScript 框架汇总
 
 - JavaScript 框架
+  - [react](https://github.com/facebook/react)
   - [Angular](https://github.com/angular/angular)
   - [jQuery](https://github.com/jquery/jquery)
   - [Backbone.js](https://github.com/jashkenas/backbone)
