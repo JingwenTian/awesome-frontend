@@ -191,9 +191,10 @@
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
 - [prettyPhoto](https://github.com/scaron/prettyphoto)
 
-###13.5 图片剪裁
+###13.5 图片剪裁/处理
 
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
+- [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 
 ###13.6 进度条
 
@@ -245,7 +246,8 @@
 
 ###13.16 触控事件
 
-- [Hammer.JS](https://github.com/hammerjs/hammer.js)
+- [Hammer.js](https://github.com/hammerjs/hammer.js)
+- [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
 
 ###13.17 拖拽组件
 
