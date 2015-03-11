@@ -173,6 +173,7 @@
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
 - [Swiper - Most modern mobile touch slider](https://github.com/nolimits4web/Swiper)
 - [iscroll - Smooth scrolling for the web](https://github.com/cubiq/iscroll)
+- [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 
 ###13.2 瀑布流
 
