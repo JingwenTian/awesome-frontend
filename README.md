@@ -151,6 +151,15 @@
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 
+###10.8 自动完成插件
+
+- [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
+- [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
+
+###10.9 样式修正
+
+- [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
+
 ##11. 图表绘制
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
