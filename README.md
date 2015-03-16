@@ -183,6 +183,7 @@
 - [Swiper - Most modern mobile touch slider](https://github.com/nolimits4web/Swiper)
 - [iscroll - Smooth scrolling for the web](https://github.com/cubiq/iscroll)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
+- [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 
 ###13.2 瀑布流
 
@@ -340,6 +341,7 @@
 - [SweetAlert](https://github.com/t4t5/sweetalert)
 - [Messenger - 非常酷的弹框组件](https://github.com/HubSpot/messenger)
 - [PNotify](https://github.com/sciactive/pnotify)
+- [Notify.js - A simple, versatile notification library](https://github.com/jpillora/notifyjs)
 
 ##20. 提示控件(Tooltips)
 
@@ -395,6 +397,7 @@
 - [ProgressButtonStyles](https://github.com/codrops/ProgressButtonStyles)
 - [CreativeButtons](https://github.com/codrops/CreativeButtons)
 - [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
+- [jquery.onoff - Interactive, accessible toggle switches for the web.](https://github.com/timmywil/jquery.onoff)
 
 ##27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
