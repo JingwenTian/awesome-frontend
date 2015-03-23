@@ -220,6 +220,7 @@
 ###13.7 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
+- [Slideout.js - 一个用于移动 Web 应用的触摸滑出式导航菜单](https://github.com/mango/slideout)
 
 ###13.8 菜单(Menu)
 
