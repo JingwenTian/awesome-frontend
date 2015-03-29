@@ -243,6 +243,7 @@
 
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
+- [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 
 ###13.12 全屏滚动
 
