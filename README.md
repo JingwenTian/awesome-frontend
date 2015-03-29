@@ -55,6 +55,7 @@
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
+  - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
 
 ##3. 前端游戏框架
 
