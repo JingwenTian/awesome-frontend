@@ -138,6 +138,7 @@
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
+- [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
 
 ###10.5 日期选择
 
