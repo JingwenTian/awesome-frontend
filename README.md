@@ -71,7 +71,7 @@
 
 ##4. ui组件库
 
-- [GMU](https://github.com/fex-team/GMU)
+- [GMU - 基于zepto的ui组件库，适用于移动端](https://github.com/fex-team/GMU)
 - [NEC](http://nec.netease.com/)
 - [NEJ](http://nej.netease.com/)
 - [Pure CSS Components](https://github.com/LFeh/css-components/)
@@ -433,6 +433,7 @@
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 - [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
+- [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
 
 ---
 
