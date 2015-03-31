@@ -170,7 +170,7 @@
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
 
 ##12. 日期格式化
 
@@ -246,9 +246,13 @@
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 
-###13.12 全屏滚动
+###13.12 全屏滚动/全屏切换
 
 - [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
+- [fullPage.js](https://github.com/alvarotrigo/fullPage.js/)
+- [onepage-scroll](https://github.com/peachananr/onepage-scroll)
+- [zepto.fullpage - 专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
+- [screenfull.js - 切换全屏模式](https://github.com/sindresorhus/screenfull.js)
 
 ###13.13 分屏滚动
 
@@ -425,7 +429,6 @@
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
-- [screenfull.js - 全屏切换](https://github.com/sindresorhus/screenfull.js)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
