@@ -425,7 +425,14 @@
 - [CSS Colours](http://colours.neilorangepeel.com/)
 - [SVGeneration](http://www.svgeneration.com/)
 
-##30. 实用工具/其他插件
+##30. 选项卡(Tabs)
+
+- [Easy Responsive Tabs to Accordion](https://github.com/samsono/Easy-Responsive-Tabs-to-Accordion)
+- [Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs)
+- [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
+- [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
+
+##31. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
