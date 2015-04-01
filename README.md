@@ -185,6 +185,7 @@
 - [Swipe - the most accurate touch slider](https://github.com/thebird/Swipe)
 - [Swiper - Most modern mobile touch slider](https://github.com/nolimits4web/Swiper)
 - [iscroll - Smooth scrolling for the web](https://github.com/cubiq/iscroll)
+- [iSlider - 移动端滑动组件](https://github.com/BE-FE/iSlider)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 
