@@ -445,6 +445,7 @@
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 - [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
 - [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
+- [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
 
 ---
 
