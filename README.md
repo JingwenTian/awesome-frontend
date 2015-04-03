@@ -326,6 +326,9 @@
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [css-loaders](https://github.com/lukehaas/css-loaders)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
+- [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
+    
+    Velocity是一个jQuery插件，重新实现了$.animate()来产生更高的性能（速度也比CSS动画库更快），而包括新的功能，以提高动画工作流程
 
 ##17. 本地存储
 
