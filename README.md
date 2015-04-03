@@ -195,7 +195,7 @@
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
-###13.3 图片懒加载/加载监听
+###13.3 预加载/加载监听
 
 - [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
@@ -203,6 +203,7 @@
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 - [lazyload.js](https://github.com/vvo/lazyload)
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
+- [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
 
 ###13.4 图片轮播/展示 
 
@@ -215,12 +216,13 @@
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 
-###13.6 进度条
+###13.6 进度条/loading
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
 - [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
 - [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
+- [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
 
 ###13.7 侧滑插件(offcancas)
 
