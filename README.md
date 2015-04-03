@@ -353,6 +353,7 @@
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
 - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
 - [jQuery Interactive 3D - Create a 3D interactive object using images](https://github.com/peachananr/interactive_3d)
+- [AnimateScroll - A Simple jQuery Plugin for Animating Scroll](https://github.com/ramswaroop/animatescroll.js)
 
 ##17. 本地存储
 
