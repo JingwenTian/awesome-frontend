@@ -55,6 +55,7 @@
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
+  - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
 
 ##3. 前端游戏框架
@@ -80,11 +81,14 @@
 - [Primer - The CSS toolkit and guidelines that power GitHub](https://github.com/primer/primer)
 
 ##5. 基础模版
-
-- [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
-- [Modernizr](https://github.com/Modernizr/Modernizr)
-- [Normalize.css](https://github.com/necolas/normalize.css/)
-- [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
+- 浏览器统一(Cross Browser)
+  - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
+  - [Modernizr](https://github.com/Modernizr/Modernizr)
+  - [Normalize.css](https://github.com/necolas/normalize.css/)
+  - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
+- 响应式
+  - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
+  - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
 
 ##6. 排版
 
@@ -119,6 +123,7 @@
 - [validator.js](https://github.com/sofish/validator.js)
 - [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
 - [Fort.js – 表单填写进度提示](http://github.com/Colourity/Fort.js)
+- [mailcheck - 用于检测email地址的域名](https://github.com/mailcheck/mailcheck)
 
 ###10.2 < select > 相关
 
@@ -146,6 +151,7 @@
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
+- [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
 
 ###10.6 取色
 
@@ -164,18 +170,19 @@
 
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
-##11. 图表绘制
+##11. 图表绘制/图形库(Graphics)
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
 - [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-- [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+- [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
 
 ##12. 日期格式化
 
-- [Moment.js](http://momentjs.com/)
+- [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 
 ##13. 页面交互
@@ -205,18 +212,20 @@
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
 
-###13.4 图片轮播/展示 
+###13.4 图片轮播/图片展示 
 
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
 - [prettyPhoto](https://github.com/scaron/prettyphoto)
+- [Holder.js - Client-side image placeholders.](https://github.com/imsky/holder)
 
-###13.5 图片剪裁/处理
+###13.5 图片剪裁/图片处理
 
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
+- [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 
-###13.6 进度条/loading
+###13.6 进度条/Loading
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
@@ -284,6 +293,7 @@
 
 - [Headroom.js - 在不需要页头时将其隐藏](http://www.bootcss.com/p/headroom.js/)
 - [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
+- [oriDomi - 像指一样折叠Dom元素](https://github.com/dmotz/oriDomi)
 
 ###13.19 滚动条
 
@@ -327,8 +337,7 @@
 - [css-loaders](https://github.com/lukehaas/css-loaders)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
-    
-    Velocity是一个jQuery插件，重新实现了$.animate()来产生更高的性能（速度也比CSS动画库更快），而包括新的功能，以提高动画工作流程
+- [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
 
 ##17. 本地存储
 
@@ -375,11 +384,14 @@
 - [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
 - [DialogEffects](https://github.com/codrops/DialogEffects)
 
-##22. 文档/表格
+##22. 文档/表格/PDF
 
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 - [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
 - [DataTables - Table plug-in for jQuery](https://github.com/DataTables/DataTables)
+- [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
+- [jsPDF - Generate PDF files in JavaScript](https://github.com/MrRio/jsPDF)
+- [Recline.js - 灵活操作和展示数据](https://github.com/okfn/recline/)
 
 ##23. 目录树插件
 
@@ -421,6 +433,8 @@
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
+- [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
+- [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 
 ##28. 内容提取(Readability)
 
@@ -447,9 +461,7 @@
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
-- [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
-- [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
 - [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
 - [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
 
