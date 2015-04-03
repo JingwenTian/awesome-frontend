@@ -89,6 +89,7 @@
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
+  - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
 
 ##6. 排版
 
@@ -114,7 +115,7 @@
 
 ##10. 表单处理
 
-###10.1 表单验证(Form Validator)
+###10.1 表单验证(Form Validator)/表单提示
 
 - [Validator](https://github.com/niceue/validator)
 - [Parsley](https://github.com/guillaumepotier/Parsley.js)
@@ -124,6 +125,8 @@
 - [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
 - [Fort.js – 表单填写进度提示](http://github.com/Colourity/Fort.js)
 - [mailcheck - 用于检测email地址的域名](https://github.com/mailcheck/mailcheck)
+- [Floatlable.js - 输入时显示placeholder文本](https://github.com/clubdesign/floatlabels.js)
+- [jQuery Label Better](https://github.com/peachananr/label_better)
 
 ###10.2 < select > 相关
 
@@ -196,34 +199,41 @@
 - [iSlider - 移动端滑动组件](https://github.com/BE-FE/iSlider)
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
+- [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
 
 ###13.2 瀑布流
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 
-###13.3 预加载/加载监听
+###13.3 懒加载/加载监听/预加载
 
 - [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Echo.js](https://github.com/toddmotto/echo)
 - [lazySizes](https://github.com/aFarkas/lazysizes)
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
+- [BttrLazyLoading](https://github.com/shprink/bttrlazyloading/)
 - [lazyload.js](https://github.com/vvo/lazyload)
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
 
-###13.4 图片轮播/图片展示 
+###13.4 图片轮播(幻灯片)/图片展示 
 
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
 - [prettyPhoto](https://github.com/scaron/prettyphoto)
+- [FlickerPlate - A cool jQuery plugin that lets you flick through content.](https://github.com/chrishumboldt/Flickerplate)
 - [Holder.js - Client-side image placeholders.](https://github.com/imsky/holder)
+- [RowGrid.js - 在径直的行里放置图片](https://github.com/brunjo/rowGrid.js)
+- [ImageLightbox.js - 灯箱效果](http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
+- [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
 
 ###13.5 图片剪裁/图片处理
 
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
+- [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 
 ###13.6 进度条/Loading
 
@@ -248,6 +258,7 @@
 - [jquery-scrollspy(1)](https://github.com/sxalexander/jquery-scrollspy)
 - [jquery-scrollspy(2)](https://github.com/thesmart/jquery-scrollspy)
 - [Waypoints](https://github.com/imakewebthings/waypoints)
+- [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 
 ###13.10 滚动加载更多
 
@@ -279,6 +290,8 @@
 
 - [sticky - jQuery Plugin for Sticky Objects](https://github.com/garand/sticky)
 - [jquery.pin - 固定页面元素](https://github.com/webpop/jquery.pin)
+- [stickUp](https://github.com/LiranCohen/stickUp)
+- [Slinky.js - 堆叠头部创建滑动导航列表](https://github.com/iclanzan/slinky)
 
 ###13.16 触控事件
 
@@ -327,6 +340,7 @@
 
 - [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
 - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
+- [AniJS - A Library to Raise your Web Design without Coding](https://github.com/anijs/anijs/)
 - [Move.js - 简化CSS3动画的JS库](https://github.com/visionmedia/move.js)
 - [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
 - [Effeckt.css - A Performant Transitions and Animations Library](https://github.com/h5bp/Effeckt.css)
@@ -338,6 +352,7 @@
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
 - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
+- [jQuery Interactive 3D - Create a 3D interactive object using images](https://github.com/peachananr/interactive_3d)
 
 ##17. 本地存储
 
@@ -359,7 +374,7 @@
 - [json2html](https://github.com/moappi/json2html)
 
 
-##19. 通知组件/弹框组件
+##19. 通知组件/弹框组件/模态窗口
 
 - [alertify.js](https://github.com/fabien-d/alertify.js)
 - [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
@@ -367,6 +382,7 @@
 - [Messenger - 非常酷的弹框组件](https://github.com/HubSpot/messenger)
 - [PNotify](https://github.com/sciactive/pnotify)
 - [Notify.js - A simple, versatile notification library](https://github.com/jpillora/notifyjs)
+- [Remodal - 模态窗口插件](https://github.com/VodkaBears/Remodal)
 
 ##20. 提示控件(Tooltips)
 
@@ -392,6 +408,7 @@
 - [PDF.js - 一个 JavaScript 编写的 PDF 阅读器](https://github.com/mozilla/pdf.js)
 - [jsPDF - Generate PDF files in JavaScript](https://github.com/MrRio/jsPDF)
 - [Recline.js - 灵活操作和展示数据](https://github.com/okfn/recline/)
+- [Dynatable - 交互式表格插件](https://github.com/alfajango/jquery-dynatable)
 
 ##23. 目录树插件
 
@@ -445,6 +462,8 @@
 
 - [CSS Colours](http://colours.neilorangepeel.com/)
 - [SVGeneration](http://www.svgeneration.com/)
+- [SVGMagic - 自动的创建PNG来兼容不支持SVG的浏览器](https://github.com/dirkgroenen/SVGMagic)
+- [Adaptive Backgrounds - 从图片抽取主要颜色和应用到父元素](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)
 
 ##30. 选项卡(Tabs)
 
@@ -453,17 +472,24 @@
 - [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
 - [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
 
-##31. 实用工具/其他插件
+##31. 文本处理
+
+- [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
+- [Bigfoot - 点击文章中的脚注弹窗显示](https://github.com/lemonmade/bigfoot)
+- [Annotator - 文本注解插件，可以包括注释、标签、用户等](https://github.com/openannotation/annotator)
+- [Succinct - 用作截断多行文本,后面添加省略号](https://github.com/micjamking/Succinct)
+
+##32. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
-- [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 - [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
-- [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
+- [MixitUp - 动画过滤和排序](https://github.com/patrickkunka/mixitup)
+- [JQuery Tip Cards - 创建卡片交互的cards布局](https://github.com/peachananr/tip_cards)
 
 ---
 
