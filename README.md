@@ -101,6 +101,7 @@
 
 - [grid](https://github.com/aekaplan/grid)
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
+- [MasonJS - creating a perfect grid](https://github.com/DrewDahlman/Mason)
 
 ##8. HTML5 API 应用
 
@@ -269,6 +270,7 @@
 - [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
+- [scrollUp](https://github.com/markgoodyear/scrollup)
 
 ###13.12 全屏滚动/全屏切换
 
@@ -479,6 +481,9 @@
 - [Bigfoot - 点击文章中的脚注弹窗显示](https://github.com/lemonmade/bigfoot)
 - [Annotator - 文本注解插件，可以包括注释、标签、用户等](https://github.com/openannotation/annotator)
 - [Succinct - 用作截断多行文本,后面添加省略号](https://github.com/micjamking/Succinct)
+- [Flowtype.js - 自动调整字体大小和行号](https://github.com/simplefocus/FlowType.JS)
+- [flat-shadow](https://github.com/peachananr/flat-shadow)
+- [FitText - A jQuery plugin for inflating web type](https://github.com/davatron5000/FitText.js)
 
 ##32. 实用工具/其他插件
 
