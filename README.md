@@ -437,6 +437,7 @@
 - [BigScreen - A simple library for using the JavaScript Full Screen API](https://github.com/bdougherty/BigScreen)
 - [Vide - 视频背景](https://github.com/VodkaBears/Vide)
 - [winamp2-js](https://github.com/captbaritone/winamp2-js)
+- [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
 
 ##26. 按钮
 
