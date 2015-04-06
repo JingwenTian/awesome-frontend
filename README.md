@@ -146,6 +146,7 @@
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
 - [Uploadify](http://www.uploadify.com/)
 - [Plupload](https://github.com/moxiecode/plupload)
+- [Fine Uploader](http://fineuploader.com/index.html)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
@@ -237,13 +238,15 @@
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 
-###13.6 进度条/Loading
+###13.6 进度条/加载动画(Loading)
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
 - [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
 - [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
 - [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
+- [spin.js](https://github.com/fgnass/spin.js)
+- [sonic.js](https://github.com/padolsey/sonic.js)
 
 ###13.7 侧滑插件(offcancas)
 
@@ -339,7 +342,7 @@
 - [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
 - [Simple Icons](https://github.com/danleech/simple-icons)
 
-##16. 动画
+##16. 动画(Animate)
 
 - [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
 - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
