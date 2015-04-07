@@ -456,6 +456,7 @@
 
 - [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
+- [TinyMCE](https://github.com/tinymce/tinymce)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
