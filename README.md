@@ -166,11 +166,13 @@
 ###10.7 标签插件(Tag)
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
+- [selectize.js](https://github.com/brianreavis/selectize.js)
 
 ###10.8 自动完成插件
 
 - [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
+- [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
 
 ###10.9 样式修正
 
