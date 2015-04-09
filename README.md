@@ -318,9 +318,13 @@
 - [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 - [oriDomi - 像指一样折叠Dom元素](https://github.com/dmotz/oriDomi)
 
-###13.19 滚动条
+###13.19 滚动条(Scrollbar)
 
 - [jScrollPane](https://github.com/vitch/jScrollPane)
+- [jquery.scrollbar](https://github.com/gromo/jquery.scrollbar)
+- [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar)
+- [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS)
+- [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
 
 ###13.20 视差滚动(Parallax Scrolling)
 
