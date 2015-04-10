@@ -238,6 +238,7 @@
 
 ###13.5 图片剪裁/图片处理
 
+- [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
@@ -408,13 +409,14 @@
 - [grumble.js - 气泡形状的提示（Tooltip）控件](https://github.com/jamescryer/grumble.js)
 - [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
 
-##21. 对话框/弹出层(lightbox)
+##21. 对话框/遮罩层/弹出层(lightbox)
 
 - [fancyBox - Fancy jQuery lightbox](https://github.com/fancyapps/fancyBox)
 - [jquery-lightbox - The popular lightbox script, ported to jQuery](https://github.com/krewenki/jquery-lightbox)
 - [Colorbox - a jQuery lightbox](https://github.com/jackmoore/colorbox)
 - [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
 - [DialogEffects](https://github.com/codrops/DialogEffects)
+- [jQuery blockUI - Page or element overlay](https://github.com/malsup/blockui/)
 
 ##22. 文档/表格/PDF
 
@@ -517,6 +519,7 @@
 - [MixitUp - 动画过滤和排序](https://github.com/patrickkunka/mixitup)
 - [JQuery Tip Cards - 创建卡片交互的cards布局](https://github.com/peachananr/tip_cards)
 - [Fallback.js - JavaScript library for dynamically loading CSS and JS files.](https://github.com/dolox/fallback/)
+- [swfobject](https://github.com/swfobject/swfobject)
 
 ---
 
