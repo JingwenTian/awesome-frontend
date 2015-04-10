@@ -515,6 +515,7 @@
 - [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
 - [MixitUp - 动画过滤和排序](https://github.com/patrickkunka/mixitup)
 - [JQuery Tip Cards - 创建卡片交互的cards布局](https://github.com/peachananr/tip_cards)
+- [Fallback.js - JavaScript library for dynamically loading CSS and JS files.](https://github.com/dolox/fallback/)
 
 ---
 
