@@ -271,9 +271,12 @@
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 
-###13.10 滚动加载更多
+###13.10 滚动加载更多/下拉刷新(Pull to Refresh)
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
+- [web-pull-to-refresh](https://github.com/apeatling/web-pull-to-refresh)
+- [pulltorefresh](https://github.com/dwcares/pulltorefresh)
+- [RubberBand.js - add pull-to-refresh functionality to any page.](https://github.com/ThrivingKings/RubberBand.js)
 
 ###13.11 平滑滚动插件(Smooth Scroll)
 
