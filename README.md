@@ -124,6 +124,7 @@
 - [jquery.form.js - jQuery Form Plugin](https://github.com/malsup/form)
 - [Validform](https://github.com/haiercdboy/Validform)
 - [validator.js](https://github.com/sofish/validator.js)
+- [jquery-validation - jQuery Validation Plugin](https://github.com/jzaefferer/jquery-validation)
 - [formvalidator.js](https://github.com/victorjonsson/jQuery-Form-Validator)
 - [Fort.js – 表单填写进度提示](http://github.com/Colourity/Fort.js)
 - [mailcheck - 用于检测email地址的域名](https://github.com/mailcheck/mailcheck)
