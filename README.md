@@ -104,12 +104,20 @@
 - [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid)
 - [MasonJS - creating a perfect grid](https://github.com/DrewDahlman/Mason)
 
-##8. HTML5 API 应用
+
+##8. 路由和链接(Routing And URLs)
 
 - [History.js - gracefully supports the HTML5 History/State APIs](https://github.com/browserstate/history.js)
 - [jquery-pjax - pushState+ajax](https://github.com/defunkt/jquery-pjax)
 - [jquery-address - Deep Linking](https://github.com/asual/jquery-address)
-- [Notify.js(Web Notifications API)](https://github.com/alexgibson/notify.js)
+- [page.js - Micro client-side router](https://github.com/visionmedia/page.js)
+- [crossroads.js](https://github.com/millermedeiros/crossroads.js)
+- [hash.js](https://github.com/javve/hash.js)  
+- [path.js](https://github.com/mtrpcic/pathjs)
+- [director](https://github.com/flatiron/director)
+- [URI.js](https://github.com/medialize/URI.js)
+- [Roadcrew.js](https://github.com/grobmeier/Roadcrew.js)
+- [SpeakingURL](https://github.com/pid/speakingurl)
 
 ##9. UA 识别
 
@@ -396,6 +404,7 @@
 
 ##19. 通知组件/弹框组件/模态窗口
 
+- [Notify.js(Web Notifications API)](https://github.com/alexgibson/notify.js)
 - [alertify.js](https://github.com/fabien-d/alertify.js)
 - [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
 - [SweetAlert](https://github.com/t4t5/sweetalert)
