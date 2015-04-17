@@ -485,6 +485,7 @@
 - [marked - markdown解析器](https://github.com/chjj/marked)
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
+- [stackedit](https://github.com/benweet/stackedit)
 
 ##28. 内容提取(Readability)
 
