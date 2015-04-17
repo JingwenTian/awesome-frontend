@@ -214,6 +214,7 @@
 - [OwlCarousel - create beautiful responsive carousel slider](https://github.com/OwlFonk/OwlCarousel)
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 - [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
+- [PhotoSwipe](https://github.com/dimsemenov/photoswipe)
 
 ###13.2 瀑布流
 
