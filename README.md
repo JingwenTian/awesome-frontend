@@ -324,6 +324,7 @@
 ###13.17 拖拽组件
 
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
+- [dragula - 一个让拖放操作变简单的 JS 库](https://github.com/bevacqua/dragula)
 
 ###13.18 隐藏或展示页面元素
 
