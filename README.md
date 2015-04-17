@@ -534,6 +534,7 @@
 - [JQuery Tip Cards - 创建卡片交互的cards布局](https://github.com/peachananr/tip_cards)
 - [Fallback.js - JavaScript library for dynamically loading CSS and JS files.](https://github.com/dolox/fallback/)
 - [swfobject](https://github.com/swfobject/swfobject)
+- [prettyprint.js - An in-browser JavaScript variable dumper](https://github.com/padolsey-archive/prettyprint.js)
 
 ---
 
