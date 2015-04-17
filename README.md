@@ -520,6 +520,7 @@
 
 - 分隔面板(Split Panel)
   - [split-pane](https://github.com/shagstrom/split-pane)
+  - [jQuery UI Layout](http://layout.jquery-dev.com/)
 
 ##33. 实用工具/其他插件
 
