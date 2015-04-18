@@ -48,6 +48,7 @@
   - [Zepto.js](https://github.com/madrobby/zepto)
   - [Vanilla JS](http://vanilla-js.com/)
   - [Avalon](https://github.com/RubyLouvre/avalon)
+  - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
@@ -229,6 +230,7 @@
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 - [BttrLazyLoading](https://github.com/shprink/bttrlazyloading/)
 - [lazyload.js](https://github.com/vvo/lazyload)
+- [layzr.js - 一个小巧快速的图片懒加载库](https://github.com/callmecavs/layzr.js)
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
