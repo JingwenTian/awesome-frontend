@@ -540,9 +540,33 @@
 - [swfobject](https://github.com/swfobject/swfobject)
 - [prettyprint.js - An in-browser JavaScript variable dumper](https://github.com/padolsey-archive/prettyprint.js)
 
----
+#前端开发工具
 
-##前端参考集
+##1. 开发工具
+
+- [Sublime Text](http://www.sublimetext.com/)
+
+##2. 调试工具
+
+- [Fiddler](http://www.telerik.com/fiddler)
+- [Weinre](http://people.apache.org/~pmuellr/weinre-docs/latest/Home.html)
+- [Rythem](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
+
+##3. 浏览器扩展(Chrome Extensions)
+
+- [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+- [Fiddler - Fiddler for Chrome Extension](http://welefen.github.io/Fiddler/)
+- [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
+- [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [Code Cola](https://chrome.google.com/webstore/detail/code-cola/lomkpheldlbkkfiifcbfifipaofnmnkn)
+- [1px](https://chrome.google.com/webstore/detail/1px/gebccnmciopflhcdihopmphapifkkfdh)
+- [AlloyDesigner - 前端重构开发辅助工具](https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid)
+- [Fontface Ninja](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
+- [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
+
+#前端参考集
 
 - [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 - [Codrops - Useful resources](https://github.com/codrops)
