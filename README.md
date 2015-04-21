@@ -401,6 +401,7 @@
 - [Bounce.js - CSS3 关键帧动画](https://github.com/tictail/bounce.js)
 - [Sticker.js - create a Sticker Effect](https://github.com/cmiscm/stickerjs)
 - [scrollReveal.js - 元素进入可视区域自动触发设置好的动画](https://github.com/julianlloyd/scrollReveal.js)
+- [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
 
 ##17. 本地存储
 
@@ -545,7 +546,11 @@
   - [split-pane](https://github.com/shagstrom/split-pane)
   - [jQuery UI Layout](http://layout.jquery-dev.com/)
 
-##33. 实用工具/其他插件
+##33. 演示/幻灯片
+
+- [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+
+##34. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
