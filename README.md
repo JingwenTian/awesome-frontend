@@ -44,6 +44,7 @@
   - [Angular](https://github.com/angular/angular)
   - [jQuery](https://github.com/jquery/jquery)
   - [Backbone.js](https://github.com/jashkenas/backbone)
+  - [ember.js](https://github.com/emberjs/ember.js)
   - [Ractive.js](https://github.com/ractivejs/ractive)
   - [KISSY](https://github.com/kissyteam/kissy)
   - [Zepto.js](https://github.com/madrobby/zepto)
