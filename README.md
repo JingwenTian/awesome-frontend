@@ -62,7 +62,7 @@
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
-  - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
+  - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
 
 ##3. 前端游戏框架
 
@@ -121,7 +121,7 @@
 - [crossroads.js](https://github.com/millermedeiros/crossroads.js)
 - [hash.js](https://github.com/javve/hash.js)  
 - [path.js](https://github.com/mtrpcic/pathjs)
-- [director](https://github.com/flatiron/director)
+- [director.js - 前端路由库(通过#符号进行路径组织,结合vue的component可进行单页的局部模块刷新)](https://github.com/flatiron/director)
 - [URI.js](https://github.com/medialize/URI.js)
 - [Roadcrew.js](https://github.com/grobmeier/Roadcrew.js)
 - [SpeakingURL](https://github.com/pid/speakingurl)
@@ -165,7 +165,7 @@
 - [Plupload](https://github.com/moxiecode/plupload)
 - [Fine Uploader](http://fineuploader.com/index.html)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
-- [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
+- [Dropzone.js - 文件上传库(可获取文件mime, 文件大小等; 针对图片可生成缩略图,获取图片宽度,高度)](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
 
@@ -454,6 +454,7 @@
 
 ##22. 文档/表格/PDF
 
+- [Backgrid.js - 强大的表格组件](https://github.com/wyuenho/backgrid)
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 - [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
 - [DataTables - Table plug-in for jQuery](https://github.com/DataTables/DataTables)
