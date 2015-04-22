@@ -528,6 +528,7 @@
 - [Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs)
 - [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
 - [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
+- [tabulous.js](https://github.com/aarondo/tabulous.js)
 
 ##31. 文本处理
 
