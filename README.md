@@ -226,6 +226,7 @@
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 - [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
 - [PhotoSwipe](https://github.com/dimsemenov/photoswipe)
+- [TouchSlide - 触屏滑动特效(焦点图,Tab切换)](http://www.superslide2.com/TouchSlide/)
 
 ###13.2 瀑布流
 
