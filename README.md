@@ -54,6 +54,7 @@
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
+  - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Lo-Dash - A JavaScript utility library](https://github.com/lodash/lodash)
@@ -307,6 +308,7 @@
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 - [scrollUp](https://github.com/markgoodyear/scrollup)
+- [elevator.js - 一个模拟电梯运行“返回顶部”的 JS 插件](https://github.com/tholman/elevator.js)
 
 ###13.12 全屏滚动/全屏切换
 
