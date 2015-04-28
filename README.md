@@ -259,6 +259,7 @@
 - [ImageLightbox.js - 灯箱效果](http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
 - [Intense Images - 全屏查看图片](https://github.com/tholman/intense-images)
+- [Picturefill - 一个响应式图片 JS 插件](http://scottjehl.github.io/picturefill/)
 
 ###13.5 图片剪裁/图片处理
 
