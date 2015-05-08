@@ -518,6 +518,7 @@
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 - [stackedit](https://github.com/benweet/stackedit)
+- [Redactor Text Editor](http://imperavi.com/redactor/)
 
 ##28. 内容提取(Readability)
 
