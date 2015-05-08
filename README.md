@@ -186,6 +186,7 @@
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 - [selectize.js](https://github.com/brianreavis/selectize.js)
+- [Bootstrap Tags Input](https://github.com/timschlechter/bootstrap-tagsinput/)
 
 ###10.8 自动完成插件
 
