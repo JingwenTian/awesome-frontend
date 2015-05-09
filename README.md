@@ -552,6 +552,7 @@
 - [FitText - A jQuery plugin for inflating web type](https://github.com/davatron5000/FitText.js)
 - [shine.js - 实现漂亮阴影](https://github.com/bigspaceship/shine.js)
 - [Type Rendering Mix - 文本渲染引擎](https://github.com/bramstein/trmix/)
+- [jquery-expander - 阅读更多](https://github.com/kswedberg/jquery-expander)
 
 ##32. 布局(Layout)
 
