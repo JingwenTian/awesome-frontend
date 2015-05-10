@@ -58,6 +58,7 @@
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
+  - [functional.js](https://github.com/leecrossley/functional-js/)
   - [Lo-Dash - A JavaScript utility library](https://github.com/lodash/lodash)
   - [Lazy.js - a functional utility library for JavaScript](https://github.com/dtao/lazy.js)
   - [Fn.js](https://github.com/eliperelman/fn.js)
