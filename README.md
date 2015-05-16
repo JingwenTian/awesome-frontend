@@ -264,6 +264,7 @@
 - [Intense Images - 全屏查看图片](https://github.com/tholman/intense-images)
 - [Picturefill - 一个响应式图片 JS 插件](http://scottjehl.github.io/picturefill/)
 - [zoom.js - 一个 jQuery 图片放大插件](https://github.com/fat/zoom.js)
+- [watermarkjs - 一个在浏览器中添加图片水印的 JS 库](https://github.com/brianium/watermarkjs)
 
 ###13.5 图片剪裁/图片处理
 
