@@ -273,6 +273,7 @@
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
+- [imgareaselect](https://github.com/odyniec/imgareaselect)
 
 ###13.6 进度条/加载动画(Loading)
 
