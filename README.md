@@ -52,6 +52,7 @@
   - [Vanilla JS](http://vanilla-js.com/)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
+  - [jsblocks - Better MV-ish Framework 从简单 UI 到复杂单页应用都适用](https://github.com/astoilkov/jsblocks)
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
