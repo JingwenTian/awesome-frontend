@@ -65,6 +65,7 @@
   - [Fn.js](https://github.com/eliperelman/fn.js)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
+  - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
 
@@ -165,13 +166,14 @@
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
-- [Uploadify](http://www.uploadify.com/)
+- [uploadify](http://www.uploadify.com/)
 - [Plupload](https://github.com/moxiecode/plupload)
 - [Fine Uploader](http://fineuploader.com/index.html)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - 文件上传库(可获取文件mime, 文件大小等; 针对图片可生成缩略图,获取图片宽度,高度)](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
+- [simple-uploader](https://github.com/mycolorway/simple-uploader)
 
 ###10.5 日期选择
 
