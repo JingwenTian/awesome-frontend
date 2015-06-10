@@ -214,6 +214,7 @@
 - [epoch - 数据图表可视化](https://github.com/fastly/epoch/)
 - [Vis.js](https://github.com/almende/vis)
 - [Coutour.js](https://github.com/forio/contour)
+- [zrender - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！](https://github.com/ecomfe/zrender)
 
 ##12. 日期格式化
 
