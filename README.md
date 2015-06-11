@@ -70,6 +70,7 @@
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
   - [Can.js](http://canjs.com/guides/Utilities.html)
+  - [boiler - a utility library that makes tasks in JavaScript easier](https://github.com/Xaxis/boiler)
 
 ##3. 前端游戏框架
 
