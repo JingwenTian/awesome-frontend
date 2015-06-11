@@ -57,6 +57,7 @@
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
+  - [knockout](https://github.com/knockout/knockout)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [functional.js](https://github.com/leecrossley/functional-js/)
@@ -68,6 +69,7 @@
   - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
+  - [Can.js](http://canjs.com/guides/Utilities.html)
 
 ##3. 前端游戏框架
 
