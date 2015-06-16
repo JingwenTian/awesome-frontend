@@ -422,6 +422,7 @@
 - [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
 - [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
 - [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
+- [iconate.js：将 icons 增加动画效果的 JS 库](https://github.com/bitshadow/iconate)
 
 ##17. 本地存储
 
