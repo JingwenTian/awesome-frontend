@@ -219,10 +219,11 @@
 - [Coutour.js](https://github.com/forio/contour)
 - [zrender - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！](https://github.com/ecomfe/zrender)
 
-##12. 日期格式化
+##12. 日期格式化 & 时间轴
 
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
+- [timeline.js](https://github.com/vorg/timeline.js)
 
 ##13. 页面交互
 
@@ -288,6 +289,7 @@
 - [progress.js](https://github.com/usablica/progress.js)
 - [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
 - [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
+- [nanobar - Very lightweight progress bars.](https://github.com/jacoborus/nanobar)
 - [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
@@ -530,6 +532,7 @@
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 - [stackedit](https://github.com/benweet/stackedit)
 - [Redactor Text Editor](http://imperavi.com/redactor/)
+- [micromarkdown.js - 轻量级的md解析器](https://github.com/simonwaldherr/micromarkdown.js/)
 
 ##28. 内容提取(Readability)
 
@@ -574,6 +577,8 @@
 ##33. 演示/幻灯片
 
 - [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+- [bespoke.js - DIY Presentation Micro-Framework](https://github.com/markdalgleish/bespoke.js)
+- [impress.js](https://github.com/bartaz/impress.js)
 
 ##34. 实用工具/其他插件
 
