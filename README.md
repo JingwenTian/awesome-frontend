@@ -631,8 +631,8 @@
 #前端参考集
 
 - [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Codrops - Useful resources](https://github.com/codrops)
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
-
