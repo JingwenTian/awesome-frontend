@@ -636,3 +636,4 @@
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
+- [awesome-javascript](https://github.com/wwsun/awesome-javascript)
