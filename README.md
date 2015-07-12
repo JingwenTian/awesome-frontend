@@ -58,6 +58,7 @@
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
   - [knockout](https://github.com/knockout/knockout)
+  - [PhantomJS - 一个基于 WebKit 的服务器端 JavaScript API](https://github.com/ariya/phantomjs/)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [functional.js](https://github.com/leecrossley/functional-js/)
