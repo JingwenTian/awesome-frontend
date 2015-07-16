@@ -61,6 +61,7 @@
   - [PhantomJS - 一个基于 WebKit 的服务器端 JavaScript API](https://github.com/ariya/phantomjs/)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
+  - [Underscore.string.js字符串操作库](https://github.com/epeli/underscore.string)
   - [functional.js](https://github.com/leecrossley/functional-js/)
   - [Lo-Dash - A JavaScript utility library](https://github.com/lodash/lodash)
   - [Lazy.js - a functional utility library for JavaScript](https://github.com/dtao/lazy.js)
