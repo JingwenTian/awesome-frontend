@@ -295,6 +295,7 @@
 - [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
+- [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js)
 
 ###13.7 侧滑插件(offcancas)
 
