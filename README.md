@@ -155,6 +155,7 @@
 - [mailcheck - 用于检测email地址的域名](https://github.com/mailcheck/mailcheck)
 - [Floatlable.js - 输入时显示placeholder文本](https://github.com/clubdesign/floatlabels.js)
 - [jQuery Label Better](https://github.com/peachananr/label_better)
+- [validator.js](https://github.com/ppoffice/validator.js)
 
 ###10.2 < select > 相关
 
