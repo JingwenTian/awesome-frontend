@@ -586,7 +586,16 @@
 - [bespoke.js - DIY Presentation Micro-Framework](https://github.com/markdalgleish/bespoke.js)
 - [impress.js](https://github.com/bartaz/impress.js)
 
-##34. 实用工具/其他插件
+##34. 国际化(i18n)
+
+- [jquery-i18n](https://github.com/recurser/jquery-i18n)
+- [i18next.js](https://github.com/i18next/i18next)
+- [jsperanto.js](https://github.com/jpjoyal/jsperanto)
+- [jed.js](https://github.com/SlexAxton/Jed)
+- [messageformat.js](https://github.com/SlexAxton/messageformat.js)
+- [Polyglot.js](https://github.com/airbnb/polyglot.js)
+
+##35. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
