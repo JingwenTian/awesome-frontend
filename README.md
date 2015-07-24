@@ -104,6 +104,7 @@
   - [Normalize.css](https://github.com/necolas/normalize.css/)
   - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
+  - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
