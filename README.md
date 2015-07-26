@@ -88,7 +88,7 @@
 - [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
 - [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
 - [Quintus](https://github.com/cykod/Quintus)
-- [cutjs](https://github.com/piqnt/cutjs/)
+- [Stage.js](https://github.com/piqnt/stage.js/)
 
 ##4. ui组件库
 
