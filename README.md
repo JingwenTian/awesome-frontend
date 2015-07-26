@@ -59,6 +59,9 @@
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
   - [knockout](https://github.com/knockout/knockout)
   - [PhantomJS - 一个基于 WebKit 的服务器端 JavaScript API](https://github.com/ariya/phantomjs/)
+- 函数式反应型编程框架 FRP (Functional Reactive Programming) library
+  - [Bacon.js - A small functional reactive programming lib for JavaScript.](https://github.com/baconjs/bacon.js/) 
+  - [Flapjax - 一个支持FRP的JavaScript框架](http://www.flapjax-lang.org/)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Underscore.string.js字符串操作库](https://github.com/epeli/underscore.string)
