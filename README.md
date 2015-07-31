@@ -601,7 +601,11 @@
 - [messageformat.js](https://github.com/SlexAxton/messageformat.js)
 - [Polyglot.js](https://github.com/airbnb/polyglot.js)
 
-##35. 实用工具/其他插件
+##35. 邮件模板(Email Templates)
+
+- [responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template)
+
+##36. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
