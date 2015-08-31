@@ -507,6 +507,10 @@
 
 - [fetch - A window.fetch JavaScript polyfill](https://github.com/github/fetch)
 - [reqwest - browser asynchronous http requests](https://github.com/ded/reqwest)
+- [ajax - Standalone AJAX library](https://github.com/ForbesLindesay/ajax)
+- [then-request](https://github.com/then/then-request)
+- [browser-request](https://github.com/iriscouch/browser-request)
+- [superagent](https://github.com/visionmedia/superagent)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 
 ##25. 音频/视频
