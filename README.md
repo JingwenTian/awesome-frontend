@@ -574,6 +574,7 @@
 ##31. 文本处理
 
 - [ZeroClipboard - 文本复制插件](https://github.com/zeroclipboard/zeroclipboard)
+- [clipboard.js](https://github.com/zenorocha/clipboard.js/)
 - [Bigfoot - 点击文章中的脚注弹窗显示](https://github.com/lemonmade/bigfoot)
 - [Annotator - 文本注解插件，可以包括注释、标签、用户等](https://github.com/openannotation/annotator)
 - [Succinct - 用作截断多行文本,后面添加省略号](https://github.com/micjamking/Succinct)
