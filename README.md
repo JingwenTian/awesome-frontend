@@ -303,6 +303,8 @@
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js)
+- [loaders.css - 一个为性能优化的实现加载动画效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
+- [css-loaders](https://github.com/lukehaas/css-loaders)
 
 ###13.7 侧滑插件(offcancas)
 
@@ -421,7 +423,6 @@
 - [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
 - [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
 - [Hover.css](https://github.com/IanLunn/Hover)
-- [css-loaders](https://github.com/lukehaas/css-loaders)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
 - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
