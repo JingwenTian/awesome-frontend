@@ -468,6 +468,7 @@
 - [PNotify](https://github.com/sciactive/pnotify)
 - [Notify.js - A simple, versatile notification library](https://github.com/jpillora/notifyjs)
 - [Remodal - 模态窗口插件](https://github.com/VodkaBears/Remodal)
+- [action.js - 极简的tip和Modal弹窗效果](https://github.com/egoist/action.js)
 
 ##20. 提示控件(Tooltips)
 
