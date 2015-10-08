@@ -107,6 +107,7 @@
   - [HTML5 BOILERPLATE](https://github.com/h5bp/html5-boilerplate)
   - [Modernizr](https://github.com/Modernizr/Modernizr)
   - [Normalize.css](https://github.com/necolas/normalize.css/)
+  - [HTML5 Shiv - 让ie浏览器成为支持html5的浏览器的解决方法](https://github.com/afarkas/html5shiv)
   - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
   - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
