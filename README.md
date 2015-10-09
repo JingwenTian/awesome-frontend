@@ -94,6 +94,7 @@
 
 ##4. ui组件库
 
+- [WeUI - 微信官方UI库](https://github.com/weui/weui)
 - [GMU - 基于zepto的ui组件库，适用于移动端](https://github.com/fex-team/GMU)
 - [FrozenUI - 腾讯移动端组件库](https://github.com/frozenui/frozenui)
 - [NEC](http://nec.netease.com/)
