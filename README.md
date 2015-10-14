@@ -1,6 +1,12 @@
 #前端组件库
 >搭建web app常用的样式/组件等收集列表(移动优先)
 
+---
+
+- 一个常用的PHP类库, 资源以及技巧列表 [awesome-php](https://github.com/JingwenTian/awesome-php/) 推荐
+
+---
+
 ##0. 前端自动化(Workflow)
 
 - 前端构建工具
