@@ -487,6 +487,7 @@
 - [grumble.js - 气泡形状的提示（Tooltip）控件](https://github.com/jamescryer/grumble.js)
 - [Ouibounce - 离站提示控件](https://github.com/carlsednaoui/ouibounce)
 - [intro.js - 一个创建引导式网站介绍功能的 JS 库](https://github.com/usablica/intro.js)
+- [data-tip.css - 纯 CSS 实现的工具提示](https://github.com/egoist/data-tip.css)
 
 ##21. 对话框/遮罩层/弹出层(lightbox)
 
