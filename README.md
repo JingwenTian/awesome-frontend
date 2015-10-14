@@ -431,7 +431,7 @@
 - [NEC动画库](http://nec.netease.com/library/category/#animation)
 - [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
 - [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
-- [Hover.css](https://github.com/IanLunn/Hover)
+- [Hover.css - 很多鼠标Hover态的效果](https://github.com/IanLunn/Hover)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
 - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
@@ -480,6 +480,7 @@
 
 ##20. 提示控件(Tooltips)
 
+- [hint.css - 一款非常小巧的提示框效果](https://github.com/chinchang/hint.css)
 - [qTip2 - Pretty powerful tooltips](https://github.com/qTip2/qTip2)
 - [tooltip - CSS Tooltips](https://github.com/HubSpot/tooltip)
 - [tooltipster - A jQuery tooltip plugin](https://github.com/iamceege/tooltipster)
@@ -652,6 +653,7 @@
 - [Fiddler](http://www.telerik.com/fiddler)
 - [Weinre](http://people.apache.org/~pmuellr/weinre-docs/latest/Home.html)
 - [Rythem](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
+- [csscss - 用于检查css代码冗余](https://github.com/zmoazeni/csscss)
 
 ##3. 浏览器扩展(Chrome Extensions)
 
