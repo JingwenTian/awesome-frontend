@@ -289,6 +289,7 @@
 
 - [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
+- [smartcrop.js - 智能图片裁剪库](https://github.com/jwagner/smartcrop.js)
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
