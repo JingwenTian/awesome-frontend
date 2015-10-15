@@ -643,6 +643,12 @@
 - [Gremlins.js - Monkey 测试库](https://github.com/marmelab/gremlins.js)
 - [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
 
+#设计模式( JavaScript Patterns )
+
+- [javascript-patterns](https://github.com/shichuan/javascript-patterns)
+- [jquery-patterns - A variety of jQuery plugin patterns](https://github.com/jquery-boilerplate/jquery-patterns)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 #前端开发工具
 
 ##1. 开发工具
