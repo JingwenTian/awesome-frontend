@@ -399,6 +399,7 @@
 
 - [parallax.js](https://github.com/wagerfield/parallax)
 - [jparallax](https://github.com/stephband/jparallax)
+- [skrollr](https://github.com/Prinzhorn/skrollr)
 
 ##14. 代码高亮插件/代码编辑器
 
