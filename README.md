@@ -300,6 +300,7 @@
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 - [imgareaselect](https://github.com/odyniec/imgareaselect)
+- [CSSgram - CSS 实现的 Instagram 滤镜库](https://github.com/una/CSSgram)
 
 ###13.6 进度条/加载动画(Loading)
 
