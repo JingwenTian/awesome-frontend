@@ -633,6 +633,7 @@
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
+- [qrcodejs - JS生成QRCode的库](https://github.com/davidshimjs/qrcodejs)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
 - [KityMinder - 脑图编辑工具](https://github.com/fex-team/kityminder)
 - [MixitUp - 动画过滤和排序](https://github.com/patrickkunka/mixitup)
