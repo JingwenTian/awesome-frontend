@@ -690,6 +690,7 @@
 - [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
 - [Pretty Beautiful Javascript - 可以自动格式化混淆的js文件](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg/related?utm_source=chrome-ntp-icon)
 - [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd?utm_source=chrome-ntp-icon)
+- [CSS Diff - 在线比对页面上两个元素的CSS样式差异](https://chrome.google.com/webstore/detail/css-diff/pefnhibkhcfooofgmgoipfpcojnhhljm/related)
 
 #前端参考集
 
