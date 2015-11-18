@@ -646,6 +646,7 @@
 - [RulersGuide.js - 类似PhotoShop标尺的js库](https://github.com/mark-rolich/RulersGuides.js)
 - [Gremlins.js - Monkey 测试库](https://github.com/marmelab/gremlins.js)
 - [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
+- [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
 
 #设计模式( JavaScript Patterns )
 
