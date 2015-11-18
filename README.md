@@ -301,6 +301,7 @@
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
 - [imgareaselect](https://github.com/odyniec/imgareaselect)
 - [CSSgram - CSS 实现的 Instagram 滤镜库](https://github.com/una/CSSgram)
+- [antimoderate - 图片模糊库](https://github.com/whackashoe/antimoderate)
 
 ###13.6 进度条/加载动画(Loading)
 
