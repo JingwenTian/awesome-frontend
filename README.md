@@ -656,6 +656,14 @@
 - [jquery-patterns - A variety of jQuery plugin patterns](https://github.com/jquery-boilerplate/jquery-patterns)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+#在线工具( Online Tools )
+
+- [jsbin - Collaborative JavaScript Debugging App](http://jsbin.com)
+  - [jsbin@Github](https://github.com/jsbin/jsbin)
+- [jsfiddle](http://jsfiddle.net/)
+- [jsbeautifier - Online JavaScript beautifier](http://jsbeautifier.org/)
+- [resume.github.com](http://resume.github.io)
+
 #前端开发工具
 
 ##1. 开发工具
