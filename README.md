@@ -632,6 +632,7 @@
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
+- [jquery-fast-click](https://github.com/dave1010/jquery-fast-click)
 - [InstantClick - 预加载用户可能会点击的一些链接](https://github.com/dieulot/instantclick/)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
