@@ -443,7 +443,7 @@
 - [jQuery Interactive 3D - Create a 3D interactive object using images](https://github.com/peachananr/interactive_3d)
 - [AnimateScroll - A Simple jQuery Plugin for Animating Scroll](https://github.com/ramswaroop/animatescroll.js)
 - [Blast.js - 把动画和样式注入到文本中](https://github.com/julianshapiro/blast)
-- [Bounce.js - CSS3 关键帧动画](https://github.com/tictail/bounce.js)
+- [Bounce.js - 一个用于制作漂亮 CSS3 关键帧动画的 JS 库](https://github.com/tictail/bounce.js)
 - [Sticker.js - create a Sticker Effect](https://github.com/cmiscm/stickerjs)
 - [scrollReveal.js - 元素进入可视区域自动触发设置好的动画](https://github.com/julianlloyd/scrollReveal.js)
 - [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
