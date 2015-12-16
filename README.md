@@ -194,7 +194,7 @@
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
 - [Dropzone.js - 文件上传库(可获取文件mime, 文件大小等; 针对图片可生成缩略图,获取图片宽度,高度)](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
-- [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/hho2002/localResizeIMG3)
+- [localResizeIMG - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG)
 - [simple-uploader](https://github.com/mycolorway/simple-uploader)
 
 ###10.5 日期选择
