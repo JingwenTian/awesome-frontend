@@ -704,6 +704,7 @@
 - [Pretty Beautiful Javascript - 可以自动格式化混淆的js文件](https://chrome.google.com/webstore/detail/pretty-beautiful-javascri/piekbefgpgdecckjcpffhnacjflfoddg/related?utm_source=chrome-ntp-icon)
 - [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd?utm_source=chrome-ntp-icon)
 - [CSS Diff - 在线比对页面上两个元素的CSS样式差异](https://chrome.google.com/webstore/detail/css-diff/pefnhibkhcfooofgmgoipfpcojnhhljm/related)
+- [WhatFont- 识别网页所使用的字体](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 #前端参考集
 
