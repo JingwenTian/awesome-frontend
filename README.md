@@ -602,6 +602,7 @@
 - [shine.js - 实现漂亮阴影](https://github.com/bigspaceship/shine.js)
 - [Type Rendering Mix - 文本渲染引擎](https://github.com/bramstein/trmix/)
 - [jquery-expander - 阅读更多](https://github.com/kswedberg/jquery-expander)
+- [Typed.js - 输入模拟插件](https://github.com/mattboldt/typed.js/)
 
 ##32. 布局(Layout)
 
