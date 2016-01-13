@@ -22,6 +22,7 @@
   - [RequireJS](http://requirejs.org/)
   - [Sea.js](http://seajs.org/)
   - [LABjs - 文件加载器](https://github.com/getify/LABjs)
+  - [css-modulesify - CSS模块加载器](https://github.com/css-modules/css-modulesify)
 - css预处理器
   - [Less - Less is More , Than CSS](http://lesscss.org/) 
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
