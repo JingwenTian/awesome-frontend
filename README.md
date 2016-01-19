@@ -121,6 +121,7 @@
   - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
   - [lib-flexible: 移动端自适应方案](https://github.com/amfe/lib-flexible)
     - [参考: 使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  - [ieBetter.js: make ie browser like a morden browser main for ie6~ie8](https://github.com/zhangxinxu/ieBetter.js)
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
