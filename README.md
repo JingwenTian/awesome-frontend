@@ -632,11 +632,15 @@
 
 - [responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template)
 
-##36. 实用工具/其他插件
+##36. 移动端优化(Optimizing Mobile Performance)
+
+- [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
+- [tappy](https://github.com/filamentgroup/tappy/)
+- [jquery-fast-click](https://github.com/dave1010/jquery-fast-click)
+
+##37. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
-- [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
-- [jquery-fast-click](https://github.com/dave1010/jquery-fast-click)
 - [InstantClick - 预加载用户可能会点击的一些链接](https://github.com/dieulot/instantclick/)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
