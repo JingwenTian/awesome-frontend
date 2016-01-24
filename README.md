@@ -127,7 +127,8 @@
   - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
   - [lib-flexible: 移动端自适应方案](https://github.com/amfe/lib-flexible)
     - [参考: 使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-    - [flexible demo](http://ufologist.github.io/responsive-page/others-responsive/flexible.html)
+    - [flexible demo 1](http://ufologist.github.io/responsive-page/others-responsive/flexible.html)
+    - [flexible demo 2](http://huodong.m.taobao.com/act/yibo.html)
   - [pageResponse](https://github.com/peunzhang/pageResponse)
   - [responsive-page](https://github.com/ufologist/responsive-page)
 
