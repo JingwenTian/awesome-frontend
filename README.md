@@ -118,14 +118,18 @@
   - [HTML5 Shiv - 让ie浏览器成为支持html5的浏览器的解决方法](https://github.com/afarkas/html5shiv)
   - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
-  - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
-  - [lib-flexible: 移动端自适应方案](https://github.com/amfe/lib-flexible)
-    - [参考: 使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   - [ieBetter.js: make ie browser like a morden browser main for ie6~ie8](https://github.com/zhangxinxu/ieBetter.js)
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
   - [Free Wall - 创建桌面，移动和平板的动态网格布局](https://github.com/kombai/freewall)
+- 适配方案
+  - [MetaHandler.js：移动端适配各种屏幕无痛工具脚本](https://github.com/unbug/generator-webappstarter/blob/master/app/templates/app/src/util/MetaHandler.js)
+  - [lib-flexible: 移动端自适应方案](https://github.com/amfe/lib-flexible)
+    - [参考: 使用Flexible实现手淘H5页面的终端适配](https://github.com/amfe/article/issues/17?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [flexible demo](http://ufologist.github.io/responsive-page/others-responsive/flexible.html)
+  - [pageResponse](https://github.com/peunzhang/pageResponse)
+  - [responsive-page](https://github.com/ufologist/responsive-page)
 
 ##6. 排版
 
