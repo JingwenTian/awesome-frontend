@@ -623,6 +623,8 @@
 - [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
 - [bespoke.js - DIY Presentation Micro-Framework](https://github.com/markdalgleish/bespoke.js)
 - [impress.js](https://github.com/bartaz/impress.js)
+- [shower](https://github.com/shower/shower)
+- [deck.js](https://github.com/imakewebthings/deck.js)
 
 ##34. 国际化(i18n)
 
