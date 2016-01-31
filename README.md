@@ -477,6 +477,7 @@
 - [Juicer - A Light Javascript Templete Engine.](https://github.com/PaulGuo/Juicer)
 - [Tempo](https://github.com/twigkit/tempo)
 - [json2html](https://github.com/moappi/json2html)
+- [Hogan.js - JavaScript templating from Twitter.](https://github.com/twitter/hogan.js)
 
 
 ##19. 通知组件/弹框组件/模态窗口
