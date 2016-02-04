@@ -78,12 +78,14 @@
   - [Lazy.js - a functional utility library for JavaScript](https://github.com/dtao/lazy.js)
   - [Fn.js](https://github.com/eliperelman/fn.js)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
-  - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
-  - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
-  - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
   - [Can.js](http://canjs.com/guides/Utilities.html)
   - [boiler - a utility library that makes tasks in JavaScript easier](https://github.com/Xaxis/boiler)
+  - 快捷键操作
+    - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
+    - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
+    - [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
+    - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
 
 ##3. 前端游戏框架
 
