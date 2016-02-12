@@ -10,6 +10,7 @@
 ##0. 前端自动化(Workflow)
 
 - 前端构建工具
+  - [Webpack - module bundler](https://github.com/webpack/webpack)
   - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman) 
   - [gulp - The streaming build system](http://gulpjs.com/) 
   - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
