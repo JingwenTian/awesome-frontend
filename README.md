@@ -470,6 +470,7 @@
 - [localForage](https://github.com/mozilla/localForage)
 - [pouchdb](https://github.com/pouchdb/pouchdb)
 - [basil.js](https://github.com/Wisembly/basil.js)
+- [Neurosync - JavaScript 本地离线 ORM 库](https://github.com/ClickerMonkey/neurosync)
 
 ##18. 模板引擎
 
