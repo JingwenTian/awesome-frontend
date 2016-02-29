@@ -114,6 +114,7 @@
 - [Pure CSS Components](https://github.com/LFeh/css-components/)
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css)
 - [Primer - The CSS toolkit and guidelines that power GitHub](https://github.com/primer/primer)
+- [light7 - A Light and easy to use UI Lib](https://github.com/lihongxun945/light7)
 
 ##5. 基础模版
 - 浏览器统一(Cross Browser)
