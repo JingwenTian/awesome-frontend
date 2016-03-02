@@ -61,6 +61,8 @@
   - [KISSY](https://github.com/kissyteam/kissy)
   - [Zepto.js](https://github.com/madrobby/zepto)
   - [Vanilla JS](http://vanilla-js.com/)
+  - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
+  - [Can.js](http://canjs.com/guides/Utilities.html)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
   - [jsblocks - Better MV-ish Framework 从简单 UI 到复杂单页应用都适用](https://github.com/astoilkov/jsblocks)
@@ -81,8 +83,6 @@
   - [Lazy.js - a functional utility library for JavaScript](https://github.com/dtao/lazy.js)
   - [Fn.js](https://github.com/eliperelman/fn.js)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
-  - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
-  - [Can.js](http://canjs.com/guides/Utilities.html)
   - [boiler - a utility library that makes tasks in JavaScript easier](https://github.com/Xaxis/boiler)
   - 快捷键操作
     - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
