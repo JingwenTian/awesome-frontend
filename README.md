@@ -518,6 +518,7 @@
 - [artDialog - 经典的网页对话框组件](https://github.com/aui/artDialog)
 - [DialogEffects](https://github.com/codrops/DialogEffects)
 - [jQuery blockUI - Page or element overlay](https://github.com/malsup/blockui/)
+- [layer - web弹出窗/层](https://github.com/sentsin/layer/)
 
 ##22. 文档/表格/PDF
 
