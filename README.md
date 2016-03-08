@@ -216,6 +216,9 @@
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
+- [PriceCalendar - 酒店价格日历](https://github.com/fugm/PriceCalendar)
+  - [API文档](http://fgm.cc/learn/calendar/price-calendar/api.html)  
+  - [DEMO](http://fgm.cc/learn/calendar/price-calendar/)
 
 ###10.6 取色
 
