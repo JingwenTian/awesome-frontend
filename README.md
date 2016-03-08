@@ -488,7 +488,7 @@
 - [Tempo](https://github.com/twigkit/tempo)
 - [json2html](https://github.com/moappi/json2html)
 - [Hogan.js - JavaScript templating from Twitter.](https://github.com/twitter/hogan.js)
-
+- [Dust.js - Linkedin维护的项目](https://github.com/linkedin/dustjs)
 
 ##19. 通知组件/弹框组件/模态窗口
 
