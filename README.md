@@ -164,6 +164,7 @@
 - [URI.js](https://github.com/medialize/URI.js)
 - [Roadcrew.js](https://github.com/grobmeier/Roadcrew.js)
 - [SpeakingURL](https://github.com/pid/speakingurl)
+- [uparams - An URL params parser](https://github.com/YanagiEiichi/uparams)
 
 ##9. UA 识别
 
