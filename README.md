@@ -104,7 +104,7 @@
 - [Stage.js](https://github.com/piqnt/stage.js/)
 - [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
 
-##4. ui组件库
+##4. ui组件库(CSS Framework)
 
 - [WeUI - 微信官方UI库](https://github.com/weui/weui)
 - [GMU - 基于zepto的ui组件库，适用于移动端](https://github.com/fex-team/GMU)
@@ -115,6 +115,7 @@
 - [magic-of-css](https://github.com/adamschwartz/magic-of-css)
 - [Primer - The CSS toolkit and guidelines that power GitHub](https://github.com/primer/primer)
 - [light7 - A Light and easy to use UI Lib](https://github.com/lihongxun945/light7)
+- [Spectre.css - 轻量、响应式的现代 CSS 框架](https://github.com/picturepan2/spectre)
 
 ##5. 基础模版
 - 浏览器统一(Cross Browser)
