@@ -658,7 +658,14 @@
 - [tappy](https://github.com/filamentgroup/tappy/)
 - [jquery-fast-click](https://github.com/dave1010/jquery-fast-click)
 
-##37. 实用工具/其他插件
+##37. HTTP请求相关
+
+- [pako - HTTP 请求正文压缩](https://github.com/nodeca/pako)
+  - [参考阅读: 如何压缩 HTTP 请求正文](https://imququ.com/post/how-to-compress-http-request-body.html)
+  - [HTTP 请求正文压缩 DEMO](https://qgy18.com/request-compress/)
+- [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
+
+##38. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [InstantClick - 预加载用户可能会点击的一些链接](https://github.com/dieulot/instantclick/)
