@@ -626,6 +626,7 @@
 - [Type Rendering Mix - 文本渲染引擎](https://github.com/bramstein/trmix/)
 - [jquery-expander - 阅读更多](https://github.com/kswedberg/jquery-expander)
 - [Typed.js - 输入模拟插件](https://github.com/mattboldt/typed.js/)
+- [jQuery.dotdotdot - 多行文本溢出显示省略号](https://github.com/FrDH/jQuery.dotdotdot)
 
 ##32. 布局(Layout)
 
