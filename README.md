@@ -126,7 +126,8 @@
   - [HTML5 Shiv - 让ie浏览器成为支持html5的浏览器的解决方法](https://github.com/afarkas/html5shiv)
   - [cssFx - 为CSS3自动生成浏览器前缀](https://github.com/imsky/cssFx)
   - [-prefix-free - Break free from CSS prefix hell](https://github.com/LeaVerou/prefixfree)
-  - [ieBetter.js: make ie browser like a morden browser main for ie6~ie8](https://github.com/zhangxinxu/ieBetter.js)
+  - [ieBetter.js - make ie browser like a morden browser main for ie6~ie8](https://github.com/zhangxinxu/ieBetter.js)
+  - [es6-promise - Promise 对象的兼容](https://github.com/stefanpenner/es6-promise)
 - 响应式
   - [Responsive - 响应式布局](https://github.com/ResponsiveBP/Responsive)
   - [Enquire.js - Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
