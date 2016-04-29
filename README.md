@@ -90,6 +90,7 @@
     - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
     - [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
     - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
+  - [vConsole - 一个针对手机网页的前端 console 调试面板](https://github.com/WechatFE/vConsole)
 
 ##3. 前端游戏框架
 
