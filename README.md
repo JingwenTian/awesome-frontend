@@ -459,7 +459,6 @@
 - [NEC动画库](http://nec.netease.com/library/category/#animation)
 - [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
 - [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
-- [Hover.css - 很多鼠标Hover态的效果](https://github.com/IanLunn/Hover)
 - [SpinKit](https://github.com/tobiasahlin/SpinKit)
 - [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
 - [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
@@ -473,6 +472,12 @@
 - [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
 - [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
 - [iconate.js：将 icons 增加动画效果的 JS 库](https://github.com/bitshadow/iconate)
+- Hover - 悬停效果
+  - [Hover.css - 很多鼠标Hover态的效果](https://github.com/IanLunn/Hover)
+  - [imagehover.css - 为图片添加悬停效果](https://github.com/ciar4n/imagehover.css)
+  - [iHover - 图片悬停效果](https://github.com/gudh/ihover)
+  - [ImageCaptionHoverAnimation](https://github.com/hasinhayder/ImageCaptionHoverAnimation)
+  - [Bootstrap Hover Image Gallery](http://miketricking.github.io/dist/)
 
 ##17. 本地存储
 
