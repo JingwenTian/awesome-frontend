@@ -63,6 +63,7 @@
   - [Zepto.js](https://github.com/madrobby/zepto)
   - [Vanilla JS](http://vanilla-js.com/)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
+    - [Vuex - 一个专门为 Vue.js 应用设计的状态管理架构](https://github.com/vuejs/vuex)
   - [Can.js](http://canjs.com/guides/Utilities.html)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
