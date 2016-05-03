@@ -545,6 +545,7 @@
 - [Recline.js - 灵活操作和展示数据](https://github.com/okfn/recline/)
 - [Dynatable - 交互式表格插件](https://github.com/alfajango/jquery-dynatable)
 - [fattable - 创建无限滚动无限行列数的表格](https://github.com/fulmicoton/fattable)
+- [Clusterize.js - 一个轻松显示大数据集的 JS 插件](https://github.com/NeXTs/Clusterize.js)
 
 ##23. 目录树插件
 
