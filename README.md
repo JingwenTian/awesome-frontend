@@ -726,6 +726,7 @@
 - [Rythem](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
 - [csscss - 用于检查css代码冗余](https://github.com/zmoazeni/csscss)
 - [FECS - 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
+- [JSON Server - 模拟 API](https://github.com/typicode/json-server)
 
 ##3. 浏览器扩展(Chrome Extensions)
 
