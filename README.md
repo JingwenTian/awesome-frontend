@@ -699,6 +699,22 @@
 - [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
 - [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
 
+#ES6( ECMAScript 2015 )
+
+##ES6转码器(ES6 to ES5)
+
+- [Babel](https://github.com/babel/babel/) - 一个广泛使用的ES6转码器，可以将ES6代码转为ES5代码，从而在现有环境执行
+- [babelify](https://github.com/babel/babelify) - 将babel引入到Gulp, Grunt, npm run等构建过程
+- [traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+
+##ES6入门
+
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 阮一峰老师的开源的JavaScript语言教程
+- [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
+- [ES6 - New features Overview & Comparison](http://es6-features.org/)
+- [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+
+
 #设计模式( JavaScript Patterns )
 
 - [javascript-patterns](https://github.com/shichuan/javascript-patterns)
