@@ -600,6 +600,7 @@
 - [Redactor Text Editor](http://imperavi.com/redactor/)
 - [micromarkdown.js - 轻量级的md解析器](https://github.com/simonwaldherr/micromarkdown.js/)
 - [wangEditor - 支持移动端的轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
+- [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
 
 ##28. 内容提取(Readability)
 
