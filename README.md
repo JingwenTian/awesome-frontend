@@ -430,6 +430,12 @@
 - [jparallax](https://github.com/stephband/jparallax)
 - [skrollr](https://github.com/Prinzhorn/skrollr)
 
+##13.21 缩放 (Zooming)
+
+- [zoom.js - 一款效果很独特的页面内容缩放插件](https://github.com/hakimel/zoom.js)
+- [zoom.js - 一个 jQuery 图片放大插件](https://github.com/fat/zoom.js)
+- [jQuery Zoom - mouseover时图片缩放效果](https://github.com/jackmoore/zoom)
+
 ##14. 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
