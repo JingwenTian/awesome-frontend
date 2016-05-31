@@ -486,6 +486,8 @@
   - [iHover - 图片悬停效果](https://github.com/gudh/ihover)
   - [ImageCaptionHoverAnimation](https://github.com/hasinhayder/ImageCaptionHoverAnimation)
   - [Bootstrap Hover Image Gallery](http://miketricking.github.io/dist/)
+- Multi-touch gestures library - Web手势库
+  - [AlloyFinger - 腾讯 AlloyTeam 出品的超级小的 Web 手势库](https://github.com/AlloyTeam/AlloyFinger)
 
 ##17. 本地存储
 
