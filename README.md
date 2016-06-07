@@ -792,7 +792,6 @@
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Codrops - Useful resources](https://github.com/codrops)
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
-- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 - [Front-end-tutorial - 前端涉及的所有知识体系](https://github.com/nicejade/Front-end-tutorial)
