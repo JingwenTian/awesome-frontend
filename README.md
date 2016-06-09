@@ -319,6 +319,7 @@
 - [zoom.js - 一个 jQuery 图片放大插件](https://github.com/fat/zoom.js)
 - [watermarkjs - 一个在浏览器中添加图片水印的 JS 库](https://github.com/brianium/watermarkjs)
 - [responsive-images.js](https://github.com/kvendrik/responsive-images.js)
+- [Turntable.js - 轻易实现图像的3D旋转](https://github.com/polarnotion/turntable)
 
 ###13.5 图片剪裁/图片处理
 
