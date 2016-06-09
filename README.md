@@ -484,6 +484,7 @@
 - [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
 - [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
 - [iconate.js：将 icons 增加动画效果的 JS 库](https://github.com/bitshadow/iconate)
+- [Odometer - 数字之间的垂直切换](https://github.com/HubSpot/odometer)
 - Hover - 悬停效果
   - [Hover.css - 很多鼠标Hover态的效果](https://github.com/IanLunn/Hover)
   - [imagehover.css - 为图片添加悬停效果](https://github.com/ciar4n/imagehover.css)
