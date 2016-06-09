@@ -16,6 +16,7 @@
     - [use-gulp](https://github.com/Platform-CUF/use-gulp)
   - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
   - [F.I.S - 前端集成解决方案](https://github.com/fex-team/fis)
+  - [Web Starter Kit - 一个Google 提供的帮助开发者快速设置项目的工具集](https://github.com/google/web-starter-kit)
 - 前端模块管理器
   - [Bower - A package manager for the web](http://bower.io/)
   - [Browserify](http://browserify.org/)
