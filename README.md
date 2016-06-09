@@ -322,6 +322,7 @@
 - [watermarkjs - 一个在浏览器中添加图片水印的 JS 库](https://github.com/brianium/watermarkjs)
 - [responsive-images.js](https://github.com/kvendrik/responsive-images.js)
 - [Turntable.js - 轻易实现图像的3D旋转](https://github.com/polarnotion/turntable)
+- [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
 
 ###13.5 图片剪裁/图片处理
 
@@ -531,6 +532,7 @@
 - [Remodal - 模态窗口插件](https://github.com/VodkaBears/Remodal)
 - [action.js - 极简的tip和Modal弹窗效果](https://github.com/egoist/action.js)
 - [Modaal - 一个创建弹出窗口的jQuery插件](https://github.com/humaan/Modaal)
+- [Vex - 可以实现3D动效的弹出对话框堆叠效果](https://github.com/hubspot/vex)
 
 ##20. 提示控件(Tooltips)
 
@@ -606,6 +608,7 @@
 - [CreativeButtons](https://github.com/codrops/CreativeButtons)
 - [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
 - [jquery.onoff - Interactive, accessible toggle switches for the web.](https://github.com/timmywil/jquery.onoff)
+- [Flipside - 一个能过渡到对话框的按钮](https://github.com/hakimel/css/tree/master/flipside)
 
 ##27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
