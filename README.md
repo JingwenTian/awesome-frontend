@@ -289,6 +289,7 @@
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
+- [Bricklayer](https://github.com/ademilter/bricklayer)
 
 ###13.3 懒加载/加载监听/预加载
 
@@ -528,6 +529,7 @@
 - [Notify.js - A simple, versatile notification library](https://github.com/jpillora/notifyjs)
 - [Remodal - 模态窗口插件](https://github.com/VodkaBears/Remodal)
 - [action.js - 极简的tip和Modal弹窗效果](https://github.com/egoist/action.js)
+- [Modaal - 一个创建弹出窗口的jQuery插件](https://github.com/humaan/Modaal)
 
 ##20. 提示控件(Tooltips)
 
