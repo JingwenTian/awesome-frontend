@@ -174,6 +174,7 @@
 - [Roadcrew.js](https://github.com/grobmeier/Roadcrew.js)
 - [SpeakingURL](https://github.com/pid/speakingurl)
 - [uparams - An URL params parser](https://github.com/YanagiEiichi/uparams)
+- [StateMan - 一个处理深层次单页系统的路由库](https://github.com/leeluolee/stateman)
 
 ##9. UA 识别
 
