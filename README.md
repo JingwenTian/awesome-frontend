@@ -467,6 +467,7 @@
 
 - [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
 - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
+- [anime.js - Javascript 动画引擎](https://github.com/juliangarnier/anime)
 - [WOW - 在滚动过程中展示CSS动画效果(默认触发animate.css动画)](https://github.com/matthieua/WOW)
 - [AniJS - A Library to Raise your Web Design without Coding](https://github.com/anijs/anijs/)
 - [Move.js - 简化CSS3动画的JS库](https://github.com/visionmedia/move.js)
