@@ -67,6 +67,7 @@
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
     - [Vuex - 一个专门为 Vue.js 应用设计的状态管理架构](https://github.com/vuejs/vuex)
     - [Mint UI：基于 Vue.js 的移动端组件库](https://github.com/ElemeFE/mint-ui)
+    - [Vux - 基于 Vue 和 WeUI 的 UI 组件库](https://github.com/airyland/vux)
   - [Can.js](http://canjs.com/guides/Utilities.html)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
