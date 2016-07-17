@@ -588,6 +588,7 @@
 - [browser-request](https://github.com/iriscouch/browser-request)
 - [superagent](https://github.com/visionmedia/superagent)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
+- [qwest - 第三方的Ajax库](https://github.com/pyrsmk/qwest)
 
 ##25. 音频/视频
 
