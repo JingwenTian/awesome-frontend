@@ -199,18 +199,22 @@
 - [jQuery Label Better](https://github.com/peachananr/label_better)
 - [validator.js](https://github.com/ppoffice/validator.js)
 
-###10.2 < select > 相关
+###10.2 < input > 相关
+
+- [cleave.js - 格式化你的输入内容](https://github.com/nosir/cleave.js)
+
+###10.3 < select > 相关
 
 - [Chosen](https://github.com/harvesthq/chosen)
 - [Select2](https://github.com/select2/select2)
 - [bootstrap-select](https://github.com/silviomoreto/bootstrap-select)
 
-###10.3 单选框/复选框相关
+###10.4 单选框/复选框相关
 
 - [iCheck - 增强复选框和单选按钮](https://github.com/fronteed/iCheck)
 - [Switchery - iOS 7 style switches for your checkboxes](https://github.com/abpetkov/switchery)
 
-###10.4 上传组件
+###10.5 上传组件
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
@@ -223,7 +227,7 @@
 - [localResizeIMG - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG)
 - [simple-uploader](https://github.com/mycolorway/simple-uploader)
 
-###10.5 日期选择
+###10.6 日期选择
 
 - [Both Date and Time picker widget based on twitter bootstrap](https://github.com/smalot/bootstrap-datetimepicker)
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
@@ -233,24 +237,24 @@
   - [API文档](http://fgm.cc/learn/calendar/price-calendar/api.html)  
   - [DEMO](http://fgm.cc/learn/calendar/price-calendar/)
 
-###10.6 取色
+###10.7 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
 
-###10.7 标签插件(Tag)
+###10.8 标签插件(Tag)
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 - [selectize.js](https://github.com/brianreavis/selectize.js)
 - [Bootstrap Tags Input](https://github.com/timschlechter/bootstrap-tagsinput/)
 - [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input)
 
-###10.8 自动完成插件
+###10.9 自动完成插件
 
 - [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
 
-###10.9 样式修正
+###10.10 样式修正
 
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
