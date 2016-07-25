@@ -367,6 +367,7 @@
 
 - [SuperFish - 基于jQuery的级联下拉菜单](https://github.com/joeldbirch/superfish)
 - [Responsive Nav - 响应式导航](https://github.com/viljamis/responsive-nav.js)
+- [metisMenu - A jQuery menu plugin](https://github.com/onokumus/metisMenu)
 
 ###13.9 滚动侦测(ScrollSpy)
 
