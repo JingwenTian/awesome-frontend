@@ -657,6 +657,7 @@
 - [SVGMagic - 自动的创建PNG来兼容不支持SVG的浏览器](https://github.com/dirkgroenen/SVGMagic)
 - [Adaptive Backgrounds - 从图片抽取主要颜色和应用到父元素](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)
 - [Seen.js - 渲染3D场景为SVG或者HTML Canvas](https://github.com/themadcreator/seen)
+- [jquery-color - 可以动态改动颜色](https://github.com/jquery/jquery-color/)
 
 ##30. 选项卡(Tabs)
 
