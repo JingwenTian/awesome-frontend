@@ -743,6 +743,7 @@
 - [Gremlins.js - Monkey 测试库](https://github.com/marmelab/gremlins.js)
 - [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
 - [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
+- [pageguide - 网页向导](https://github.com/tracelytics/pageguide)
 
 #ES6( ECMAScript 2015 )
 
