@@ -278,6 +278,7 @@
 - [Moment.js - 日期处理](http://momentjs.com/)
 - [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
 - [timeline.js](https://github.com/vorg/timeline.js)
+- [timeago.js](https://github.com/hustcc/timeago.js)
 
 ##13. 页面交互
 
