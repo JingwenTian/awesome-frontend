@@ -51,6 +51,7 @@
 - [jQuery Mobile](http://jquerymobile.com/)
 - [App.js](https://github.com/kikinteractive/app)
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
+- [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
 
 ##2. JavaScript 框架汇总
 
