@@ -792,6 +792,7 @@
 - [csscss - 用于检查css代码冗余](https://github.com/zmoazeni/csscss)
 - [FECS - 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
 - [JSON Server - 模拟 API](https://github.com/typicode/json-server)
+- [swagger-ui - 基于REST的API测试/文档](https://github.com/swagger-api/swagger-ui)
 
 ##3. 浏览器扩展(Chrome Extensions)
 
