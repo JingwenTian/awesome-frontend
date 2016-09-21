@@ -685,6 +685,7 @@
 - [jquery-expander - 阅读更多](https://github.com/kswedberg/jquery-expander)
 - [Typed.js - 输入模拟插件](https://github.com/mattboldt/typed.js/)
 - [jQuery.dotdotdot - 多行文本溢出显示省略号](https://github.com/FrDH/jQuery.dotdotdot)
+- [baffle.js - 文本互动效果](https://github.com/camwiegert/baffle)
 
 ##32. 布局(Layout)
 
