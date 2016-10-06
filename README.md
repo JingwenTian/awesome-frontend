@@ -834,3 +834,4 @@
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 - [Front-end-tutorial - 前端涉及的所有知识体系](https://github.com/nicejade/Front-end-tutorial)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
