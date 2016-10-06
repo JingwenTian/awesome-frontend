@@ -66,6 +66,7 @@
   - [Zepto.js](https://github.com/madrobby/zepto)
   - [Vanilla JS](http://vanilla-js.com/)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
+    - [Element - 基于 Vue 2.0 构建了一套完整的桌面 UI 组件库](http://element.eleme.io/#/)
     - [Vuex - 一个专门为 Vue.js 应用设计的状态管理架构](https://github.com/vuejs/vuex)
     - [Mint UI：基于 Vue.js 的移动端组件库](https://github.com/ElemeFE/mint-ui)
     - [Vux - 基于 Vue 和 WeUI 的 UI 组件库](https://github.com/airyland/vux)
