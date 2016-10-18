@@ -236,9 +236,12 @@
 - [GMU 日历组件](http://gmu.baidu.com/demo/widget/calendar/calendar.html)
 - [Mobiscroll](https://github.com/acidb/mobiscroll)
 - [Pikaday - 日期选择器](https://github.com/dbushell/Pikaday)
-- [PriceCalendar - 酒店价格日历](https://github.com/fugm/PriceCalendar)
-  - [API文档](http://fgm.cc/learn/calendar/price-calendar/api.html)  
-  - [DEMO](http://fgm.cc/learn/calendar/price-calendar/)
+- 价格日历
+  - [PriceCalendar - 酒店价格日历](https://github.com/fugm/PriceCalendar)
+    - [API文档](http://fgm.cc/learn/calendar/price-calendar/api.html)  
+    - [DEMO](http://fgm.cc/learn/calendar/price-calendar/)
+  - [price-calendar - 价格日历](https://github.com/wind-stone/price-calendar)
+  - [price_calendar - 含有商品价格的日历控件](https://github.com/zhangyi5628/price_calendar)
 
 ###10.7 取色
 
