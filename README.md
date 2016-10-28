@@ -603,6 +603,7 @@
 - [superagent](https://github.com/visionmedia/superagent)
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 - [qwest - 第三方的Ajax库](https://github.com/pyrsmk/qwest)
+- [axios - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 
 ###24.2 SSE (Server-Sent Events)
 > SSE API用于创建到服务器的单向连接，服务器通过这个连接可以发送任意数量的数据.
@@ -752,6 +753,7 @@
 - [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
 - [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
 - [pageguide - 网页向导](https://github.com/tracelytics/pageguide)
+- [jsdiff - js diff 算法](https://github.com/kpdecker/jsdiff)
 
 #ES6( ECMAScript 2015 )
 
