@@ -184,6 +184,7 @@
 ##9. UA 识别
 
 - [detector](https://github.com/hotoo/detector)
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js/)
 
 ##10. 表单处理
 
