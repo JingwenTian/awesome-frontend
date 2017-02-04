@@ -740,6 +740,7 @@
 ##38. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
+- [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
 - [InstantClick - 预加载用户可能会点击的一些链接](https://github.com/dieulot/instantclick/)
 - [Async.js - 异步操作](https://github.com/caolan/async)
 - [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
