@@ -52,6 +52,7 @@
 - [App.js](https://github.com/kikinteractive/app)
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
 - [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
+- [Layui - 经典模块化前端UI框架](https://github.com/sentsin/layui/)
 
 ##2. JavaScript 框架汇总
 
