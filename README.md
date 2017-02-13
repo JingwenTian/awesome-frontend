@@ -11,8 +11,8 @@
 
 - 前端构建工具
   - [Webpack - module bundler](https://github.com/webpack/webpack)
-  - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman) 
-  - [gulp - The streaming build system](http://gulpjs.com/) 
+  - [Yeoman - a set of tools for automating development workflow](https://github.com/yeoman/yeoman)
+  - [gulp - The streaming build system](http://gulpjs.com/)
     - [use-gulp](https://github.com/Platform-CUF/use-gulp)
   - [grunt - the JavaScript Task Runner](http://gruntjs.com/)
   - [F.I.S - 前端集成解决方案](https://github.com/fex-team/fis)
@@ -27,7 +27,7 @@
   - [LABjs - 文件加载器](https://github.com/getify/LABjs)
   - [css-modulesify - CSS模块加载器](https://github.com/css-modules/css-modulesify)
 - css预处理器
-  - [Less - Less is More , Than CSS](http://lesscss.org/) 
+  - [Less - Less is More , Than CSS](http://lesscss.org/)
   - [Sass - Syntactically Awesome Style Sheets](http://sass-lang.com/)
   - [Stylus - Expressive, dynamic, robust CSS](http://learnboost.github.io/stylus/)
 - 前端性能分析工具
@@ -79,13 +79,13 @@
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
   - [jsblocks - Better MV-ish Framework 从简单 UI 到复杂单页应用都适用](https://github.com/astoilkov/jsblocks)
 - 轻量级JavaScript框架
-  - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
+  - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js)
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
   - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
   - [knockout](https://github.com/knockout/knockout)
   - [PhantomJS - 一个基于 WebKit 的服务器端 JavaScript API](https://github.com/ariya/phantomjs/)
 - 函数式反应型编程框架 FRP (Functional Reactive Programming) library
-  - [Bacon.js - A small functional reactive programming lib for JavaScript.](https://github.com/baconjs/bacon.js/) 
+  - [Bacon.js - A small functional reactive programming lib for JavaScript.](https://github.com/baconjs/bacon.js/)
   - [Flapjax - 一个支持FRP的JavaScript框架](http://www.flapjax-lang.org/)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
@@ -160,7 +160,7 @@
 
 - [yue.css](https://github.com/lepture/yue.css)
 - [typo.css](https://github.com/sofish/typo.css)
-- [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines) 
+- [chinese-copywriting-guidelines - 中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ##7. 网格系统
 
@@ -269,6 +269,10 @@
 
 - [autosize - 使文本框自动适应所输入的内容](https://github.com/jackmoore/autosize)
 
+###10.11 序列化
+
+- [jquery.serializeJSON - jquery序列化方法扩展，表单内容转化为json对象](https://github.com/marioizquierdo/jquery.serializeJSON)
+
 ##11. 图表绘制/图形库(Graphics)
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
@@ -276,7 +280,7 @@
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
+  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3)
 - [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
 - [epoch - 数据图表可视化](https://github.com/fastly/epoch/)
 - [Vis.js](https://github.com/almende/vis)
@@ -325,7 +329,7 @@
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
 
-###13.4 图片轮播(幻灯片)/图片展示 
+###13.4 图片轮播(幻灯片)/图片展示
 
 - [FlexSlider](https://github.com/woothemes/FlexSlider)
 - [unslider - 小而美的轮播库](https://github.com/idiot/unslider)
