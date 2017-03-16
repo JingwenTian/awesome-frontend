@@ -73,6 +73,7 @@
     - [Vux - 基于 Vue 和 WeUI 的 UI 组件库](https://github.com/airyland/vux)
     - [vonic - 基于 Vue.js 和 Ionic 的移动 UI 组件库
     - [vuetify - vue2.0组件库](https://github.com/vuetifyjs/vuetify)
+    - [iView - 一套基于 Vue.js 的高质量 UI 组件库](https://github.com/iview/iview)
 ](https://github.com/wangdahoo/vonic)
   - [Can.js](http://canjs.com/guides/Utilities.html)
   - [Avalon](https://github.com/RubyLouvre/avalon)
