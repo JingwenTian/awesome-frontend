@@ -811,7 +811,13 @@
 - [JSON Server - 模拟 API](https://github.com/typicode/json-server)
 - [swagger-ui - 基于REST的API测试/文档](https://github.com/swagger-api/swagger-ui)
 
-## 3. 浏览器扩展(Chrome Extensions)
+## 3. 模拟数据( Fake )
+
+- [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+- [json-server - Get a full fake REST API](https://github.com/typicode/json-server)
+- [lowdb -  A small local JSON database powered by lodash](https://github.com/typicode/lowdb)
+
+## 4. 浏览器扩展(Chrome Extensions)
 
 - [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 - [Fiddler - Fiddler for Chrome Extension](http://welefen.github.io/Fiddler/)
