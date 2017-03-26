@@ -532,6 +532,7 @@
 
 ## 18. 模板引擎
 
+- [doT.js](https://github.com/olado/doT)
 - [mustache.js](https://github.com/janl/mustache.js)
 - [Handlebars.js](http://www.jingwentian.com/t-66)
 - [artTemplate](https://github.com/aui/artTemplate)
