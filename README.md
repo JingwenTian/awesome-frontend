@@ -742,7 +742,12 @@
   - [HTTP 请求正文压缩 DEMO](https://qgy18.com/request-compress/)
 - [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
 
-## 38. 实用工具/其他插件
+## 38. 下载组件
+
+- [download](https://github.com/rndme/download)
+- [Downloadify](https://github.com/dcneiner/Downloadify)
+
+## 39. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
