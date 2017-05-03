@@ -786,6 +786,7 @@
 - [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 - [ES6 - New features Overview & Comparison](http://es6-features.org/)
 - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
+- [es6features](https://github.com/lukehoban/es6features)
 
 
 # 设计模式( JavaScript Patterns )
