@@ -613,6 +613,7 @@
 - [minAjax.js](https://github.com/argunner/minAjax.js/)
 - [qwest - 第三方的Ajax库](https://github.com/pyrsmk/qwest)
 - [axios - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+- [whatwg-fetch](https://github.com/fis-components/whatwg-fetch)
 
 ### 24.2 SSE (Server-Sent Events)
 > SSE API用于创建到服务器的单向连接，服务器通过这个连接可以发送任意数量的数据.
