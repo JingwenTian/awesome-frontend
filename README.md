@@ -869,3 +869,9 @@
   - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
   - [JavaScript Standard Style](https://github.com/feross/standard)
   
+# 书籍( Frontend-related Books )
+
+- [Front-End Developer Handbook 2016](https://www.frontendhandbook.com/index.html)
+- [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+- [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
+- [前端工程师手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/) - 包括前端开发实践、学习前端开发、前端开发工具
