@@ -253,6 +253,7 @@
 ### 10.7 取色
 
 - [Colorpicker plugin for Twitter Bootstrap](https://github.com/mjolnic/bootstrap-colorpicker)
+- [average-color - Get Average Color of Image](https://github.com/matkl/average-color)
 
 ### 10.8 标签插件(Tag)
 
