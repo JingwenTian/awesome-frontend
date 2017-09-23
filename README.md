@@ -873,6 +873,7 @@
   - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
   - [JavaScript Standard Style](https://github.com/feross/standard)
  - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
+- [<head> cheatsheet -  <head> 标签的内容清单](https://github.com/joshbuchea/head)
   
 # 书籍( Frontend-related Books )
 
