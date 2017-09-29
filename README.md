@@ -70,6 +70,7 @@
     - [awesome-vue](https://github.com/vuejs/awesome-vue)
     - [Element - 基于 Vue 2.0 构建了一套完整的桌面 UI 组件库](http://element.eleme.io/#/)
     - [Vuex - 一个专门为 Vue.js 应用设计的状态管理架构](https://github.com/vuejs/vuex)
+    - [at-ui - 一款基于 Vue.js 2.0 的前端 UI 组件库，主要用于快速开发 PC 网站产品](https://github.com/AT-UI/at-ui)
     - [Mint UI：基于 Vue.js 的移动端组件库](https://github.com/ElemeFE/mint-ui)
     - [Vux - 基于 Vue 和 WeUI 的 UI 组件库](https://github.com/airyland/vux)
     - [vonic - 基于 Vue.js 和 Ionic 的移动 UI 组件库](https://github.com/wangdahoo/vonic)
