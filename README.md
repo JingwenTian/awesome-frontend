@@ -191,6 +191,7 @@
 
 - [detector](https://github.com/hotoo/detector)
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js/)
+- [platform.js](https://github.com/bestiejs/platform.js/)
 
 ## 10. 表单处理
 
