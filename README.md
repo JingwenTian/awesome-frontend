@@ -748,14 +748,19 @@
 - [pako - HTTP 请求正文压缩](https://github.com/nodeca/pako)
   - [参考阅读: 如何压缩 HTTP 请求正文](https://imququ.com/post/how-to-compress-http-request-body.html)
   - [HTTP 请求正文压缩 DEMO](https://qgy18.com/request-compress/)
-- [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
 
 ## 38. 下载组件
 
 - [download](https://github.com/rndme/download)
 - [Downloadify](https://github.com/dcneiner/Downloadify)
 
-## 39. 实用工具/其他插件
+## 39. 加密/转码
+
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [ulid](https://github.com/alizain/ulid) - 生成UUID类库
+- [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
+
+## 40. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
@@ -778,7 +783,6 @@
 - [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
 - [pageguide - 网页向导](https://github.com/tracelytics/pageguide)
 - [jsdiff - js diff 算法](https://github.com/kpdecker/jsdiff)
-- [ulid](https://github.com/alizain/ulid) - 生成UUID类库
 
 # ES6( ECMAScript 2015 )
 
@@ -839,6 +843,8 @@
 - [Fiddler - Fiddler for Chrome Extension](http://welefen.github.io/Fiddler/)
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)
 - [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Wappalyzer - 分析网站应用的技术栈](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+- [HTTP Status](https://chrome.google.com/webstore/detail/http-status/cknfnacbckhfpjahnmkblajcpledpfnp/related)
 - [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd)
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)
@@ -847,7 +853,6 @@
 - [AlloyDesigner - 前端重构开发辅助工具](https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid)
 - [Fontface Ninja](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 - [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
-- [HTTP Status](https://chrome.google.com/webstore/detail/http-status/cknfnacbckhfpjahnmkblajcpledpfnp/related)
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll/related)
 - [Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg?hl=en)
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
@@ -867,7 +872,6 @@
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Codrops - Useful resources](https://github.com/codrops)
 - [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
-- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [awesome-javascript](https://github.com/wwsun/awesome-javascript)
 - [Front-end-tutorial - 前端涉及的所有知识体系](https://github.com/nicejade/Front-end-tutorial)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
