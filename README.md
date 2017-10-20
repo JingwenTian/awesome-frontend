@@ -880,6 +880,7 @@
   - [JavaScript Standard Style](https://github.com/feross/standard)
  - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
 - [<head> cheatsheet -  <head> 标签的内容清单](https://github.com/joshbuchea/head)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers http://frontendchecklist.com
   
 # 书籍( Frontend-related Books )
 
