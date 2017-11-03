@@ -104,7 +104,6 @@
     - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
     - [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
     - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
-  - [vConsole - 一个针对手机网页的前端 console 调试面板](https://github.com/WechatFE/vConsole)
   - [AlloyLever - 移动web开发者工具面板](https://github.com/AlloyTeam/AlloyLever)
 
 ## 3. 前端游戏框架
@@ -761,7 +760,12 @@
 - [ulid](https://github.com/alizain/ulid) - 生成UUID类库
 - [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
 
-## 40. 实用工具/其他插件
+## 40. 调试
+
+- [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+- [vConsole - 一个针对手机网页的前端 console 调试面板](https://github.com/WechatFE/vConsole)
+
+## 41. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
