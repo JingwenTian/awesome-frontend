@@ -347,6 +347,7 @@
 - [responsive-images.js](https://github.com/kvendrik/responsive-images.js)
 - [Turntable.js - 轻易实现图像的3D旋转](https://github.com/polarnotion/turntable)
 - [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
+- [react-slick - React 实现的轮播图插件](https://github.com/akiran/react-slick)
 
 ### 13.5 图片剪裁/图片处理
 
