@@ -845,8 +845,13 @@
 - [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 - [json-server - Get a full fake REST API](https://github.com/typicode/json-server)
 - [lowdb -  A small local JSON database powered by lodash](https://github.com/typicode/lowdb)
+- [Mock.js](https://github.com/nuysoft/Mock) - 一款模拟数据生成器，旨在帮助前端攻城师独立于后端进行开发，帮助编写单元测试
 
-## 4. 浏览器扩展(Chrome Extensions)
+## 4. 接口管理
+
+- [RAP](https://github.com/thx/RAP) - Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
+
+## 5. 浏览器扩展(Chrome Extensions)
 
 - [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 - [Fiddler - Fiddler for Chrome Extension](http://welefen.github.io/Fiddler/)
