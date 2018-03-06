@@ -189,6 +189,7 @@
 - [SpeakingURL](https://github.com/pid/speakingurl)
 - [uparams - An URL params parser](https://github.com/YanagiEiichi/uparams)
 - [StateMan - 一个处理深层次单页系统的路由库](https://github.com/leeluolee/stateman)
+- [qs - A querystring parser with nesting support](https://github.com/ljharb/qs)
 
 ## 9. UA 识别
 
