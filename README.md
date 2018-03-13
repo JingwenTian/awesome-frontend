@@ -103,6 +103,8 @@
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [boiler - a utility library that makes tasks in JavaScript easier](https://github.com/Xaxis/boiler)
   - 快捷键操作
+    - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+    - [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
     - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
     - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
     - [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)
