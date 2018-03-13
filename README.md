@@ -315,6 +315,7 @@
 - [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
 - [PhotoSwipe](https://github.com/dimsemenov/photoswipe)
 - [TouchSlide - 触屏滑动特效(焦点图,Tab切换)](http://www.superslide2.com/TouchSlide/)
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) -  inspired by iscroll, and it supports more features and has a better scroll perfermance
 
 ### 13.2 瀑布流
 
