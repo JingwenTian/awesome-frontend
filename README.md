@@ -383,6 +383,7 @@
 - [loaders.css - 一个为性能优化的实现加载动画效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
 - [css-loaders](https://github.com/lukehaas/css-loaders)
 - [Sausage - 跟踪滚动条并记录当前阅读所处节点](https://github.com/christophercliff/sausage)
+- [loading.io](https://loading.io/) - 一个 Loading 图标的网站
 
 ### 13.7 侧滑插件(offcancas)
 
