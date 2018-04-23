@@ -608,6 +608,7 @@
 - [Clusterize.js - 一个轻松显示大数据集的 JS 插件](https://github.com/NeXTs/Clusterize.js)
 - [Uniform -表单美化插件](https://github.com/AudithSoftworks/Uniform)
 - [tableExport - 导出HTML Table为 Excel、PDF 等 ](https://github.com/kayalshri/tableExport.jquery.plugin)
+- [SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx) - 生成Excel文件并下载
 
 ## 23. 目录树插件
 
