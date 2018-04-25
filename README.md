@@ -93,6 +93,12 @@
 - 函数式反应型编程框架 FRP (Functional Reactive Programming) library
   - [Bacon.js - A small functional reactive programming lib for JavaScript.](https://github.com/baconjs/bacon.js/) 
   - [Flapjax - 一个支持FRP的JavaScript框架](http://www.flapjax-lang.org/)
+
+- 混合开发框架
+
+  - [Electron](https://electronjs.org/) - 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
+  - [React Native](https://facebook.github.io/react-native/) - 使用JavaScript和React构建原生手机APP
+
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
   - [Underscore.string.js字符串操作库](https://github.com/epeli/underscore.string)
