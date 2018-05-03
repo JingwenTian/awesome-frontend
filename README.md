@@ -906,7 +906,8 @@
 - 前端编码规范( Standard Style ) 
   - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
   - [JavaScript Standard Style](https://github.com/feross/standard)
- - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
+  - [spec](https://github.com/ecomfe/spec/) -  百度前端团队代码规范
 - [<head> cheatsheet -  <head> 标签的内容清单](https://github.com/joshbuchea/head)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers http://frontendchecklist.com
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
