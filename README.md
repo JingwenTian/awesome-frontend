@@ -910,7 +910,9 @@
 - [<head> cheatsheet -  <head> 标签的内容清单](https://github.com/joshbuchea/head)
 - [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers http://frontendchecklist.com
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
-- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)  
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript工程项目的一系列最佳实践策略
+
   
   
 # 书籍( Frontend-related Books )
