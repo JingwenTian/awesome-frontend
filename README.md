@@ -62,13 +62,6 @@
     - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
     - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications
   - [Angular](https://github.com/angular/angular)
-  - [jQuery](https://github.com/jquery/jquery)
-  - [Backbone.js](https://github.com/jashkenas/backbone)
-  - [ember.js](https://github.com/emberjs/ember.js)
-  - [Ractive.js](https://github.com/ractivejs/ractive)
-  - [KISSY](https://github.com/kissyteam/kissy)
-  - [Zepto.js](https://github.com/madrobby/zepto)
-  - [Vanilla JS](http://vanilla-js.com/)
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
     - [awesome-vue](https://github.com/vuejs/awesome-vue)
     - [Element - 基于 Vue 2.0 构建了一套完整的桌面 UI 组件库](http://element.eleme.io/#/)
@@ -80,6 +73,14 @@
     - [vuetify - vue2.0组件库](https://github.com/vuetifyjs/vuetify)
     - [iView - 一套基于 Vue.js 的高质量 UI 组件库](https://github.com/iview/iview)
     - [vue-i18n](https://github.com/kazupon/vue-i18n)
+  - [preact](https://github.com/developit/preact/) - React 的 3kb 轻量化方案，拥有同样的 ES6 API
+  - [jQuery](https://github.com/jquery/jquery)
+  - [Backbone.js](https://github.com/jashkenas/backbone)
+  - [ember.js](https://github.com/emberjs/ember.js)
+  - [Ractive.js](https://github.com/ractivejs/ractive)
+  - [KISSY](https://github.com/kissyteam/kissy)
+  - [Zepto.js](https://github.com/madrobby/zepto)
+  - [Vanilla JS](http://vanilla-js.com/)
   - [Can.js](http://canjs.com/guides/Utilities.html)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
@@ -302,8 +303,9 @@
 
 ## 12. 日期格式化 & 时间轴
 
-- [Moment.js - 日期处理](http://momentjs.com/)
-- [Smart Time Ago - 显示相对时间](https://github.com/pragmaticly/smart-time-ago)
+- [Moment.js](http://momentjs.com/) - 日期处理
+- [Day.js](https://github.com/xx45/dayjs) - 日期处理
+- [Smart Time Ago](https://github.com/pragmaticly/smart-time-ago) - 显示相对时间
 - [timeline.js](https://github.com/vorg/timeline.js)
 - [timeago.js](https://github.com/hustcc/timeago.js)
 - [date-utils](https://www.npmjs.com/package/date-utils) - Date Pollyfills for Node.js and Browser
