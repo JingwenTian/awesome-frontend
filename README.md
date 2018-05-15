@@ -379,6 +379,8 @@
 - [instagram.css - 另一个 CSS 实现的 Instagram 滤镜库](https://github.com/picturepan2/instagram.css)
 - [antimoderate - 图片模糊库](https://github.com/whackashoe/antimoderate)
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper/) - Vue.js 的图片剪裁插件
+- [react-cropper](https://github.com/roadmanfong/react-cropper) - React 的图片剪裁插件
+- [react-image-crop](https://github.com/DominicTobias/react-image-crop) - React 的图片剪裁插件
 
 ### 13.6 进度条/加载动画(Loading)
 
