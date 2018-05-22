@@ -931,7 +931,7 @@
 - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 - [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md) - JavaScript工程项目的一系列最佳实践策略
-
+- [react-in-patterns](http://sangka-z.com/react-in-patterns-cn/) - React 模式
   
   
 # 书籍( Frontend-related Books )
