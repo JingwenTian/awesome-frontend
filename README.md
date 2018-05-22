@@ -366,7 +366,7 @@
 - [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
 - [react-slick - React 实现的轮播图插件](https://github.com/akiran/react-slick)
 
-### 13.5 图片剪裁/图片处理
+### 13.5 图片剪裁/图片处理/图片转换
 
 - [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
@@ -382,6 +382,9 @@
 - [react-cropper](https://github.com/roadmanfong/react-cropper) - React 的图片剪裁插件
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - React 的图片剪裁插件
 - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - HTML转图片(网页截图)
+- [html2canvas](https://github.com/niklasvh/html2canvas) - HTML转图片(实现纯JS网页截图)
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - HTML转图片
+- [domvas](https://github.com/pbakaus/domvas) - HTML转图片
 
 ### 13.6 进度条/加载动画(Loading)
 
@@ -796,7 +799,6 @@
 - [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
 - [InstantClick - 预加载用户可能会点击的一些链接](https://github.com/dieulot/instantclick/)
 - [Async.js - 异步操作](https://github.com/caolan/async)
-- [html2canvas - 实现纯JS网页截图](https://github.com/niklasvh/html2canvas)
 - [jquery.qrcode.js - 生成二维码的 jQuery 插件](https://github.com/jeromeetienne/jquery-qrcode)
 - [qrcodejs - JS生成QRCode的库](https://github.com/davidshimjs/qrcodejs)
 - [nakedpassword - 用脱衣女帮助检测密码强度](https://github.com/platform45/nakedpassword)
