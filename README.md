@@ -368,6 +368,7 @@
 
 ### 13.5 图片剪裁/图片处理/图片转换
 
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - 图片裁切
 - [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
 - [croppic - an image cropping jquery plugin](https://github.com/sconsult/croppic)
 - [smartcrop.js - 智能图片裁剪库](https://github.com/jwagner/smartcrop.js)
