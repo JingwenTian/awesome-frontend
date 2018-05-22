@@ -33,7 +33,7 @@
 - 前端性能分析工具
   - [analyze-css - CSS 选择器的复杂度和性能分析器](https://github.com/macbre/analyze-css)
 
-## 1. 前端框架(Frameworks)
+## 1. 前端UI框架(Frameworks)
 
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Foundation](https://github.com/zurb/foundation)
@@ -100,6 +100,14 @@
   - [Electron](https://electronjs.org/) - 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
   - [React Native](https://facebook.github.io/react-native/) - 使用JavaScript和React构建原生手机APP
   - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron应用程序样板(基于React、Redux、React Router、Webpack、React Transform HMR用于应用程序快速开发)
+
+- 微信小程序开发库
+
+  - [weui-wxss](https://github.com/Tencent/weui-wxss) - WeUI for 小程序 为微信小程序量身设计
+  - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
+  - [zanui-weapp](https://github.com/youzan/zanui-weapp) - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞
+  - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+  - [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
 
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
