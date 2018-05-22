@@ -381,6 +381,7 @@
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper/) - Vue.js 的图片剪裁插件
 - [react-cropper](https://github.com/roadmanfong/react-cropper) - React 的图片剪裁插件
 - [react-image-crop](https://github.com/DominicTobias/react-image-crop) - React 的图片剪裁插件
+- [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - HTML转图片(网页截图)
 
 ### 13.6 进度条/加载动画(Loading)
 
