@@ -875,12 +875,13 @@
 - [JSON Server - 模拟 API](https://github.com/typicode/json-server)
 - [swagger-ui - 基于REST的API测试/文档](https://github.com/swagger-api/swagger-ui)
 
-## 3. 模拟数据( Fake )
+## 3. 模拟数据( Mock )
 
 - [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 - [json-server - Get a full fake REST API](https://github.com/typicode/json-server)
 - [lowdb -  A small local JSON database powered by lodash](https://github.com/typicode/lowdb)
 - [Mock.js](https://github.com/nuysoft/Mock) - 一款模拟数据生成器，旨在帮助前端攻城师独立于后端进行开发，帮助编写单元测试
+- [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
 ## 4. 接口管理
 
