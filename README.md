@@ -141,6 +141,7 @@
 - [Quintus](https://github.com/cykod/Quintus)
 - [Stage.js](https://github.com/piqnt/stage.js/)
 - [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
+- [p2.js](https://github.com/schteppe/p2.js) - web 物理引擎
 
 ## 4. ui组件库(CSS Framework)
 
