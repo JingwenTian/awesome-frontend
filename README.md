@@ -209,6 +209,7 @@
 - [uparams - An URL params parser](https://github.com/YanagiEiichi/uparams)
 - [StateMan - 一个处理深层次单页系统的路由库](https://github.com/leeluolee/stateman)
 - [qs - A querystring parser with nesting support](https://github.com/ljharb/qs)
+- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 
 ## 9. UA 识别
 
