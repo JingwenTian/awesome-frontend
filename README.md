@@ -54,6 +54,7 @@
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
 - [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
 - [Layui - 经典模块化前端UI框架](https://github.com/sentsin/layui/)
+- [wired-elements](https://github.com/wiredjs/wired-elements) - 一个有手绘效果的网页组件库
 
 ## 2. JavaScript 框架汇总
 
