@@ -941,7 +941,7 @@
 - [react-in-patterns](http://sangka-z.com/react-in-patterns-cn/) - React 模式
 - [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN/) - Progressive Web Apps (PWA) 中文版
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) - JavaScript 算法与数据结构
-  
+- [vue-design](https://github.com/HcySunYang/vue-design) - Vue技术内幕
   
 # 书籍( Frontend-related Books )
 
