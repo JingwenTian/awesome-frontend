@@ -801,7 +801,8 @@
 
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [ulid](https://github.com/alizain/ulid) - 生成UUID类库
-- [RSA in JavaScript - 用RSA加密实现Web数据加密传输](http://www.ohdave.com/rsa/)
+- [RSA in JavaScript](http://www.ohdave.com/rsa/)  - 用RSA加密实现Web数据加密传输
+- [nanoid](https://github.com/ai/nanoid) - 一款非常小巧的唯一ID生成工具
 
 ## 40. 调试
 
