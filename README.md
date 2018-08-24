@@ -696,6 +696,7 @@
 - [CSS3 buttons](https://github.com/ubuwaits/css3-buttons)
 - [jquery.onoff - Interactive, accessible toggle switches for the web.](https://github.com/timmywil/jquery.onoff)
 - [Flipside - 一个能过渡到对话框的按钮](https://github.com/hakimel/css/tree/master/flipside)
+- [react-particle-effect-button](https://github.com/transitive-bullshit/react-particle-effect-button) - 一个 React 组件，按钮点击后会像粒子状消解
 
 ## 27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
@@ -727,6 +728,7 @@
 - [Seen.js - 渲染3D场景为SVG或者HTML Canvas](https://github.com/themadcreator/seen)
 - [jquery-color - 可以动态改动颜色](https://github.com/jquery/jquery-color/)
 - [rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 主题色提取
+- [chroma.js](https://github.com/gka/chroma.js) - 一个处理颜色的 JS 库
 
 ## 30. 选项卡(Tabs)
 
