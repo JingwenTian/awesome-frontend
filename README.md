@@ -835,6 +835,7 @@
 - [favico.js - 动态改变浏览器标签栏中的网站图标](https://github.com/ejci/favico.js)
 - [pageguide - 网页向导](https://github.com/tracelytics/pageguide)
 - [jsdiff - js diff 算法](https://github.com/kpdecker/jsdiff)
+- [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - 类 Github 的贡献日历网格
 
 # ES6( ECMAScript 2015 )
 
