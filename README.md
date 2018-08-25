@@ -398,6 +398,7 @@
 - [html2canvas](https://github.com/niklasvh/html2canvas) - HTML转图片(实现纯JS网页截图)
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - HTML转图片
 - [domvas](https://github.com/pbakaus/domvas) - HTML转图片
+- [merge-images](https://github.com/lukechilds/merge-images) - 多张图片合成一张图片的浏览器 JS 库，使用了 Canvas
 
 ### 13.6 进度条/加载动画(Loading)
 
