@@ -954,3 +954,4 @@
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
 - [前端工程师手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/) - 包括前端开发实践、学习前端开发、前端开发工具
+- [D3 in Depth](http://d3indepth.com/) - 可视化引擎 D3 的教程
