@@ -56,6 +56,7 @@
 - [Layui - 经典模块化前端UI框架](https://github.com/sentsin/layui/)
 - [wired-elements](https://github.com/wiredjs/wired-elements) - 一个有手绘效果的网页组件库
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - 一个简洁、好看的 CSS 框架，压缩后只有5.28KB
+- [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 
 ## 2. JavaScript 框架汇总
 
@@ -111,6 +112,7 @@
   - [zanui-weapp](https://github.com/youzan/zanui-weapp) - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞
   - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
   - [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
+  - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用
 
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
