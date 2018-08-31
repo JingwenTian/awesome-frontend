@@ -306,16 +306,18 @@
 ## 11. 图表绘制/图形库(Graphics)
 
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
-- [Chart.js - Simple HTML5 Charts using Canvas](https://github.com/nnnick/Chart.js)
+- [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using Canvas
 - [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
-- [D3.js - A JavaScript visualization library for HTML and SVG.](https://github.com/mbostock/d3)
-  - [intro-to-d3 - a D3.js tutorial](https://github.com/square/intro-to-d3) 
-- [Bonsai - 一个功能强大的JavaScript图形库](https://github.com/uxebu/bonsai)
-- [epoch - 数据图表可视化](https://github.com/fastly/epoch/)
+- [D3.js](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
+  - [intro-to-d3](https://github.com/square/intro-to-d3) - a D3.js tutorial
+- [Bonsai](https://github.com/uxebu/bonsai) - 一个功能强大的JavaScript图形库
+- [epoch](https://github.com/fastly/epoch/) - 数据图表可视化
 - [Vis.js](https://github.com/almende/vis)
 - [Coutour.js](https://github.com/forio/contour)
-- [zrender - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！](https://github.com/ecomfe/zrender)
+- [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive and Modern SVG Charts 
+- [BizCharts](https://github.com/alibaba/BizCharts) - 桌面端商业统计图表解决方案
 
 ## 12. 日期格式化 & 时间轴
 
