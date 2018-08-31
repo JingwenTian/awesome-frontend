@@ -57,6 +57,7 @@
 - [wired-elements](https://github.com/wiredjs/wired-elements) - 一个有手绘效果的网页组件库
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - 一个简洁、好看的 CSS 框架，压缩后只有5.28KB
 - [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
+- [alibaba/ice](https://github.com/alibaba/ice) - 飞冰是一套基于 React 的中后台应用解决方案
 
 ## 2. JavaScript 框架汇总
 
