@@ -884,10 +884,11 @@
 - [Fiddler](http://www.telerik.com/fiddler)
 - [Weinre](http://people.apache.org/~pmuellr/weinre-docs/latest/Home.html)
 - [Rythem](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
-- [csscss - 用于检查css代码冗余](https://github.com/zmoazeni/csscss)
-- [FECS - 基于 Node.js 的前端代码检查工具](http://fecs.baidu.com/)
-- [JSON Server - 模拟 API](https://github.com/typicode/json-server)
-- [swagger-ui - 基于REST的API测试/文档](https://github.com/swagger-api/swagger-ui)
+- [csscss](https://github.com/zmoazeni/csscss) - 用于检查css代码冗余
+- [FECS](http://fecs.baidu.com/) - 基于 Node.js 的前端代码检查工具
+- [JSON Server](https://github.com/typicode/json-server) - 模拟 API
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - 基于REST的API测试/文档
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL.
 
 ## 3. 模拟数据( Mock )
 
