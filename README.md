@@ -955,6 +955,7 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) - JavaScript 算法与数据结构
 - [vue-design](https://github.com/HcySunYang/vue-design) - Vue技术内幕
 - [css-protips](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN) - CSS 专业技巧
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 前端性能优化清单
   
 # 书籍( Frontend-related Books )
 
