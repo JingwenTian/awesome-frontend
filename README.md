@@ -877,6 +877,8 @@
 
 ## 1. 开发工具
 
+- [VSCode](https://code.visualstudio.com/)
+- [Atom](https://atom.io/)
 - [Sublime Text](http://www.sublimetext.com/)
 
 ## 2. 调试工具
@@ -930,6 +932,17 @@
 - [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd?utm_source=chrome-ntp-icon)
 - [CSS Diff - 在线比对页面上两个元素的CSS样式差异](https://chrome.google.com/webstore/detail/css-diff/pefnhibkhcfooofgmgoipfpcojnhhljm/related)
 - [WhatFont- 识别网页所使用的字体](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+
+## 6. 在线工具
+
+> 图片在线优化工具
+
+- [Kraken.io - Online Image Optimizer](https://kraken.io/web-interface)
+- [TinyJPG - Compress JPEG images intelligently](https://tinyjpg.com/)
+
+> Font Icon 在线生成工具
+
+- [IcoMoon App](https://icomoon.io/app/#/select)
 
 # 前端参考集
 
