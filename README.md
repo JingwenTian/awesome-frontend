@@ -306,9 +306,11 @@
 
 ## 11. 图表绘制/图形库(Graphics)
 
+- [apache/incubator-echarts](https://github.com/ecomfe/echarts) - 百度开源可视化库
+- [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - 阿里巴巴桌面端商业统计图表解决方案
+- [antvis/f2](https://github.com/antvis/f2) - 蚂蚁金服移动端可视化解决方案
 - [Highcharts](https://github.com/highslide-software/highcharts.com)
 - [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using Canvas
-- [百度 ECharts](https://github.com/ecomfe/echarts)
 - [Chartist.js](https://github.com/gionkunz/chartist-js)
 - [D3.js](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
   - [intro-to-d3](https://github.com/square/intro-to-d3) - a D3.js tutorial
@@ -318,7 +320,6 @@
 - [Coutour.js](https://github.com/forio/contour)
 - [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive and Modern SVG Charts 
-- [BizCharts](https://github.com/alibaba/BizCharts) - 桌面端商业统计图表解决方案
 
 ## 12. 日期格式化 & 时间轴
 
