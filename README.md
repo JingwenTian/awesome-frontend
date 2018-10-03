@@ -296,6 +296,7 @@
 
 ### 10.9 自动完成插件
 
+- [algolia/autocomplete.js](https://github.com/algolia/autocomplete.js) - 自动补全插件
 - [At.js - 一个Twitter/微博样式的@自动完成插件](https://github.com/ichord/At.js)
 - [jquery-textcomplete - 智能搜索提示框/自动补全](https://github.com/yuku-t/jquery-textcomplete)
 - [typeahead.js - a fast and fully-featured autocomplete library](https://github.com/twitter/typeahead.js)
