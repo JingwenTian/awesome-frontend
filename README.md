@@ -572,6 +572,7 @@
   - [Bootstrap Hover Image Gallery](http://miketricking.github.io/dist/)
 - Multi-touch gestures library - Web手势库
   - [AlloyFinger - 腾讯 AlloyTeam 出品的超级小的 Web 手势库](https://github.com/AlloyTeam/AlloyFinger)
+- [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/) - 粒子特效
 
 ## 17. 本地存储
 
