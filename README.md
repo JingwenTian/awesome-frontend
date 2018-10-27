@@ -845,6 +845,7 @@
 - [pageguide - 网页向导](https://github.com/tracelytics/pageguide)
 - [jsdiff - js diff 算法](https://github.com/kpdecker/jsdiff)
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - 类 Github 的贡献日历网格
+- [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist http://jsxss.com
 
 # ES6( ECMAScript 2015 )
 
