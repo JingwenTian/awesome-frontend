@@ -817,6 +817,7 @@
 - [RSA in JavaScript](http://www.ohdave.com/rsa/)  - 用RSA加密实现Web数据加密传输
 - [nanoid](https://github.com/ai/nanoid) - 一款非常小巧的唯一ID生成工具
 - [harmankang/Lab62](https://github.com/harmankang/Lab62) - 一个简单的人类可读的随机 ID 生成库
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - 评估密码强度的 JS 库，强度越强，密码越不容易破解
 
 ## 40. 调试
 
