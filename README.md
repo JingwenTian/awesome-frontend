@@ -978,6 +978,7 @@
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 前端性能优化清单
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 每个 JavaScript 工程师都应懂的33个概念 「[翻译](https://github.com/stephentian/33-js-concepts)」
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - HTML 网页的 head 元素 指南
+- [Airbnb Engineering & Data Science](https://airbnb.io/projects/) - Airbnb 前端开源项目
   
 # 书籍( Frontend-related Books )
 
