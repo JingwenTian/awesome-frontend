@@ -282,6 +282,7 @@
     - [DEMO](http://fgm.cc/learn/calendar/price-calendar/)
   - [price-calendar - 价格日历](https://github.com/wind-stone/price-calendar)
   - [price_calendar - 含有商品价格的日历控件](https://github.com/zhangyi5628/price_calendar)
+- [airbnb/react-dates](https://github.com/airbnb/react-dates) - Airbnb 的日期选择器
 
 ### 10.7 取色
 
@@ -979,6 +980,7 @@
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 每个 JavaScript 工程师都应懂的33个概念 「[翻译](https://github.com/stephentian/33-js-concepts)」
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - HTML 网页的 head 元素 指南
 - [Airbnb Engineering & Data Science](https://airbnb.io/projects/) - Airbnb 前端开源项目
+- [storybooks/storybook](https://github.com/storybooks/storybook) - 各大公司的 UI 组件库的 Storybook 展示 https://storybook.js.org/examples/
   
 # 书籍( Frontend-related Books )
 
