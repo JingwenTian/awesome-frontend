@@ -712,6 +712,7 @@
 
 ## 27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
+- [bustle/mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) - 基于mobiledoc数据格式开发所见即所得的 (WYSIWYG) 编辑器
 - [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
 - [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
 - [TinyMCE](https://github.com/tinymce/tinymce)
