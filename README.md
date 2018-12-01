@@ -530,14 +530,11 @@
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 - [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
 
-## 15. UI Icon 组件
+## 15. 字体图标 ( Font Icon )
 
-- [Font Awesome](http://fontawesome.io/icons/)
-- [Glyphter: The SVG Font Machine](http://glyphter.com/)
-- [Perfect Icons](http://perfecticons.com/)
-- [iconizr](http://iconizr.com/)
-- [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
-- [Simple Icons](https://github.com/danleech/simple-icons)
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - 提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用 CSS 的样式
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - PNG and SVG icons for popular brands
+- [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) - 所有国家国旗的 icon 库
 
 ## 16. 动画(Animate)
 
@@ -952,6 +949,8 @@
 > Font Icon 在线生成工具
 
 - [IcoMoon App](https://icomoon.io/app/#/select)
+- [Glyphter](http://glyphter.com/) - The SVG Font Machine
+- [Free Perfect Icons](https://www.designrush.com/resources/perfecticons) - 矢量图 svg 图标下载
 
 # 前端参考集
 
