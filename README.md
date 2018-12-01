@@ -414,16 +414,16 @@
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
-- [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
+- [HubSpot/pace](https://github.com/HubSpot/pace) - Pace 是一个页面加载进度条工具
 - [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
-- [nanobar - Very lightweight progress bars.](https://github.com/jacoborus/nanobar)
-- [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
+- [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars.
+- [waitMe](https://github.com/vadimsva/waitMe) - 很漂亮的loading效果
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js)
-- [loaders.css - 一个为性能优化的实现加载动画效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - 一个为性能优化的实现加载动画效果的 CSS 框架
 - [css-loaders](https://github.com/lukehaas/css-loaders)
-- [Sausage - 跟踪滚动条并记录当前阅读所处节点](https://github.com/christophercliff/sausage)
+- [Sausage](https://github.com/christophercliff/sausage) - 跟踪滚动条并记录当前阅读所处节点
 - [loading.io](https://loading.io/) - 一个 Loading 图标的网站
 
 ### 13.7 侧滑插件(offcancas)
