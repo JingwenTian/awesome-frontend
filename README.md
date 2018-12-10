@@ -724,6 +724,7 @@
 - [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
 - [Quill - 富文本编辑器](https://github.com/quilljs/quill)
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的富文本编辑器
+- [notadd/neditor](https://github.com/notadd/neditor) - 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
 
 ## 28. 内容提取(Readability)
 
