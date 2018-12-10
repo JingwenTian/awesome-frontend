@@ -723,6 +723,7 @@
 - [wangEditor - 支持移动端的轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
 - [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
 - [Quill - 富文本编辑器](https://github.com/quilljs/quill)
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的富文本编辑器
 
 ## 28. 内容提取(Readability)
 
