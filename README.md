@@ -956,6 +956,7 @@
 
 # 前端参考集
 
+- [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) - Node.js 最佳实践
 - [frontend-guidelines - Some HTML, CSS and JS best practices.](https://github.com/bendc/frontend-guidelines)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Codrops - Useful resources](https://github.com/codrops)
