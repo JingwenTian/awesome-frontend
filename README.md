@@ -984,7 +984,8 @@
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - HTML 网页的 head 元素 指南
 - [Airbnb Engineering & Data Science](https://airbnb.io/projects/) - Airbnb 前端开源项目
 - [storybooks/storybook](https://github.com/storybooks/storybook) - 各大公司的 UI 组件库的 Storybook 展示 https://storybook.js.org/examples/
-  
+- [LEARN REGEX THE EASY WAY](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) - 正则表达式学习
+
 # 书籍( Frontend-related Books )
 
 - [Front-End Developer Handbook 2016](https://www.frontendhandbook.com/index.html)
