@@ -114,6 +114,8 @@
   - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
   - [meili/minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
   - [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用
+  - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue.js 开发跨平台应用的前端框架 http://uniapp.dcloud.io
+  - [didi/chameleon](https://github.com/didi/chameleon) - 一套代码运行多端，一端所见即多端所见 https://CML.JS.org
   - [zhuanzhuanfe/fancy-mini](https://github.com/zhuanzhuanfe/fancy-mini) - 小程序代码库，封装一些常用的功能模块和ui组件。
 
 - JavaScript 工具库
