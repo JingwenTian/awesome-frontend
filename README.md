@@ -676,6 +676,7 @@
 - [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - Isomorphic WHATWG Fetch API, for Node & Browserify
 
 ### 24.2 SSE (Server-Sent Events)
+
 > SSE API用于创建到服务器的单向连接，服务器通过这个连接可以发送任意数量的数据.
 
 - [EventSource](https://github.com/Yaffle/EventSource)
@@ -685,17 +686,23 @@
 
 ## 25. 音频/视频
 
-- [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
-- [video.js - HTML5 & Flash video player](https://github.com/videojs/video.js)
-- [Accessible HTML5 Video Player - PayPal 开源的 HTML5 视频播放器](https://github.com/paypal/accessible-html5-video-player)
-- [Clappr - 开源的Web视频播放器](https://github.com/clappr/clappr)
-- [Plyr - A simple HTML5 media player](https://github.com/selz/plyr)
-- [FitVids.js - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.](https://github.com/davatron5000/FitVids.js)
-- [BigVideo.js - The jQuery Plugin for Big Background Video](https://github.com/dfcb/BigVideo.js)
-- [BigScreen - A simple library for using the JavaScript Full Screen API](https://github.com/bdougherty/BigScreen)
-- [Vide - 视频背景](https://github.com/VodkaBears/Vide)
-- [winamp2-js](https://github.com/captbaritone/winamp2-js)
-- [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
+- [videojs/video.js](https://github.com/videojs/video.js) - HTML5 & Flash video player
+- [videojs/http-streaming](https://github.com/videojs/http-streaming) - HLS, DASH, and future HTTP streaming protocols library for video.js 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
+- [Chimeejs/chimee](https://github.com/Chimeejs/chimee) - 奇舞团开源的 h5 播放器，它支持 mp4、m3u8、flv 等多种格式 http://chimee.org/
+- [paypal/accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player) - PayPal 开源的 HTML5 视频播放器
+- [clappr/clappr](https://github.com/clappr/clappr)  - 开源的Web视频播放器
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [captbaritone/webamp](https://github.com/captbaritone/webamp)
+- [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 `<video>` and `<audio>` player
+- [surmon-china/vue-video-player](https://github.com/surmon-china/vue-video-player) - 适用于 Vue 的 video.js 播放器组件
+
+- [jplayer/jPlayer](https://github.com/happyworm/jPlayer) - HTML5 Audio & Video for jQuery
+- [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
+- [dfcb/BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video
+- [bdougherty/BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API
+- [vodkabears/Vide](https://github.com/VodkaBears/Vide) - 视频背景组件
+- [jaysalvat/buzz](https://github.com/jaysalvat/buzz) - A Javascript HTML5 Audio library
 - [MediaElement.js](http://github.com/johndyer/mediaelement/)
 
 ## 26. 按钮
