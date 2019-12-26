@@ -775,6 +775,15 @@
 - [Typed.js - 输入模拟插件](https://github.com/mattboldt/typed.js/)
 - [jQuery.dotdotdot - 多行文本溢出显示省略号](https://github.com/FrDH/jQuery.dotdotdot)
 - [baffle.js - 文本互动效果](https://github.com/camwiegert/baffle)
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - 文件保存的 JavaScript 库
+
+  支持多种常见的文件存储格式：xls、txt、png 等。它可以方便的把数据转成文件，然后供用户下载。示例代码：
+  
+  ```
+  // 存储文本
+  var blob = new Blob(["Hello, world!"], {type: "text/plain;charset=utf-8"});
+  FileSaver.saveAs(blob, "hello world.txt");
+  ```
 
 ## 32. 布局(Layout)
 
