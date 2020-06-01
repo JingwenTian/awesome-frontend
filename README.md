@@ -540,6 +540,7 @@
 
 ## 16. 动画(Animate)
 
+- [SVGA](http://svga.io/index.html) - 全新的动画格式, 是一种同时兼容 iOS / Android / Flutter / Web 多个平台的动画格式
 - [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
 - [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
 - [anime.js - Javascript 动画引擎](https://github.com/juliangarnier/anime)
