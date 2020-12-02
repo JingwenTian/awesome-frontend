@@ -105,6 +105,8 @@
   - [Electron](https://electronjs.org/) - 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用
   - [React Native](https://facebook.github.io/react-native/) - 使用JavaScript和React构建原生手机APP
   - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) - Electron应用程序样板(基于React、Redux、React Router、Webpack、React Transform HMR用于应用程序快速开发)
+  - [Weex](https://github.com/apache/incubator-weex) - Weex 是使用流行的 Web 开发体验来开发高性能原生应用的框架
+  - [Flutter](https://github.com/flutter/flutter) - Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面
 
 - 微信小程序开发库
 
