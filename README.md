@@ -67,6 +67,7 @@
     - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
     - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications
   - [Angular](https://github.com/angular/angular)
+    - [Awesome Angular](https://github.com/gdi2290/awesome-angular) - A curated list of awesome Angular resources.
   - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
     - [awesome-vue](https://github.com/vuejs/awesome-vue)
     - [Element - 基于 Vue 2.0 构建了一套完整的桌面 UI 组件库](http://element.eleme.io/#/)
