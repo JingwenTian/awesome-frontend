@@ -325,8 +325,9 @@
 - [epoch](https://github.com/fastly/epoch/) - 数据图表可视化
 - [Vis.js](https://github.com/almende/vis)
 - [Coutour.js](https://github.com/forio/contour)
-- [zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
+- [ecomfe/zrender](https://github.com/ecomfe/zrender) - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive and Modern SVG Charts 
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - MapboxGL 基于 WebGL 使用矢量切片和 Mapbox 样式渲染交互式地图
 
 ## 12. 日期格式化 & 时间轴
 
