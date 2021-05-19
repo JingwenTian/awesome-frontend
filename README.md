@@ -67,7 +67,8 @@
     - [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
     - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications
   - [Angular](https://github.com/angular/angular)
-  - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
+  - [Vue.js](https://github.com/yyx990803/vue)  - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)
+    - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue.
     - [awesome-vue](https://github.com/vuejs/awesome-vue)
     - [Element - 基于 Vue 2.0 构建了一套完整的桌面 UI 组件库](http://element.eleme.io/#/)
     - [Vuex - 一个专门为 Vue.js 应用设计的状态管理架构](https://github.com/vuejs/vuex)
@@ -538,6 +539,7 @@
 
 ## 15. 字体图标 ( Font Icon )
 
+- [bytedance/IconPark](https://github.com/bytedance/IconPark)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - 提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用 CSS 的样式
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - PNG and SVG icons for popular brands
 - [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) - 所有国家国旗的 icon 库
