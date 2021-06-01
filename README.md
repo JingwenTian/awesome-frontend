@@ -330,6 +330,7 @@
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive and Modern SVG Charts 
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - MapboxGL 基于 WebGL 使用矢量切片和 Mapbox 样式渲染交互式地图
 - [Kujiale-Mobile/Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库
+- [canvg/canvg](https://github.com/canvg/canvg) - Javascript SVG parser and renderer on Canvas
 
 ## 12. 日期格式化 & 时间轴
 
