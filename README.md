@@ -939,6 +939,7 @@
 
 ## 4. 接口管理
 
+- [Apifox](https://apifox.cn/) - Apifox 是 API 文档、API 调试、API Mock、API 自动化测试一体化协作平台，定位 Postman + Swagger + Mock + JMeter
 - [RAP](https://github.com/thx/RAP) - Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 
 ## 5. 浏览器扩展(Chrome Extensions)
