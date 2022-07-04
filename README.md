@@ -727,8 +727,8 @@
 ## 27. 富文本编辑器/Markdown编辑器/Markdown解析器
 
 - [bustle/mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) - 基于mobiledoc数据格式开发所见即所得的 (WYSIWYG) 编辑器
-- [Simditor - 简单快速的富文本编辑器](https://github.com/mycolorway/simditor)
-- [BachEditor - 一个有情怀的编辑器](https://github.com/Integ/BachEditor)
+- [Simditor](https://github.com/mycolorway/simditor) - 简单快速的富文本编辑器
+- [BachEditor](https://github.com/Integ/BachEditor)- 一个有情怀的编辑器
 - [TinyMCE](https://github.com/tinymce/tinymce)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
@@ -739,10 +739,11 @@
 - [micromarkdown.js - 轻量级的md解析器](https://github.com/simonwaldherr/micromarkdown.js/)
 - [wangEditor - 支持移动端的轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
 - [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
-- [Quill - 富文本编辑器](https://github.com/quilljs/quill)
+- [quilljs/quill](https://github.com/quilljs/quill) - 富文本编辑器
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的富文本编辑器
 - [notadd/neditor](https://github.com/notadd/neditor) - 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
 - [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - In-browser semantic rich text editing
+- [facebook/lexical](https://github.com/facebook/lexical) - Facebook开源的可扩展的文本编辑器框架
 
 ## 28. 内容提取(Readability)
 
