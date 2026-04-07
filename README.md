@@ -984,6 +984,10 @@
 - [Glyphter](http://glyphter.com/) - The SVG Font Machine
 - [Free Perfect Icons](https://www.designrush.com/resources/perfecticons) - 矢量图 svg 图标下载
 
+> AI 技能市场
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+
 # 前端参考集
 
 - [i0natan/nodebestpractices](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md) - Node.js 最佳实践
