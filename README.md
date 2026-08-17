@@ -879,6 +879,7 @@
 - [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - 根据白名单过滤 HTML(防止 XSS 攻击)
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - HTML过滤 防止 XSS 攻击
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - 校验json-schema数据格式 
+- [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) - 面向编码 Agent 的 UI 质量工作流：在改 UI 前建立产品化设计契约、检查加载/错误/空状态等必要状态，并在渲染复核中拦截通用 AI 界面。免费安装：`npx skills add https://uizze.com --skill anti-ui-slop`；完整 UIZZE 另提供基于 800,000+ 个真实 Web 和 iOS 界面的检索与审查能力。
 
 # ES6( ECMAScript 2015 )
 
