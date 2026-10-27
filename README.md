@@ -975,6 +975,7 @@
 
 > 图片在线优化工具
 
+- [ImgFlow - Free browser image compressor/converter (PNG/JPG/HEIC/WebP/AVIF)](https://imgflow.taoliapp.com/en/)
 - [Kraken.io - Online Image Optimizer](https://kraken.io/web-interface)
 - [TinyJPG - Compress JPEG images intelligently](https://tinyjpg.com/)
 
