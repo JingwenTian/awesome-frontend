@@ -732,6 +732,7 @@
 - [TinyMCE](https://github.com/tinymce/tinymce)
 - [bootstrap-markdown](https://github.com/toopay/bootstrap-markdown)
 - [marked - markdown解析器](https://github.com/chjj/marked)
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - 面向 AI 对话的流式 Markdown 渲染组件，支持 Vue、React、Solid、Svelte 和 Angular。
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 - [stackedit](https://github.com/benweet/stackedit)
